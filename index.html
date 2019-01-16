@@ -1,13 +1,8 @@
 ---
-layout: default
-title: {{ site.name }}
+layout: blog
+title: Home
+description: >
+  The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
+  Open `index.html` to edit this text.
+cover: true
 ---
-
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
