@@ -1,5 +1,5 @@
 # This Github Pages is based on Jekyll-Mono
-It is crafted with 💙 by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
+It is crafted by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
 
 
 A look at the customisations you can do with _variable.scss
