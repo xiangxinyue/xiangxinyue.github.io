@@ -1,56 +1,80 @@
----
-# Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-layout: base
----
+    {% include meta.html %}
 
-{% assign strings = site.data.strings %}
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-<article class="page" role="article">
-  <header>
-    <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
-    {% include components/message.html text=page.description hide=page.hide_description %}
-  </header>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
-  {{ content }}
+  </head>
 
-  <hr class="dingbat"/>
+  <body>
+    
+    <div class="intro-header">
+        <div class="wrapper-masthead">
+         <div class="container">
+           <header class="masthead clearfix">
+             <div class="site-info">
+               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+               <p class="site-description">{{ site.description }}</p>
+             </div>
+             <nav>
+               <a href="{{ site.baseurl }}/">Blog</a>
+               <a href="{{ site.baseurl }}/about">About</a>
+               <a href="{{ site.baseurl }}/projects">Projects</a>
+             </nav>
+           </header>
+         </div>
+       </div>
+       
+        <div class="container">
+            <div class="space-small"></div>
+           
+            <div class="centered">
+              <ul class="ch-grid">
+                <li>
+                    <div class="ch-item ch-img-1">				
+                        <div class="ch-info-wrap">
+                            <div class="ch-info">
+                                <div class="ch-info-front ch-img-1"></div>
+                                <div class="ch-info-back">
+                                    <h3>{{site.name}}</h3>
+                                    <p></br><a href="https://linkedin.com/in/{{ site.footer-links.linkedin }}">View on LinkedIn</a></p>
+                                </div>	
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+             
+             <div class="space-medium"></div>
+            
+        </div>
+    </div>
 
-  {% if site.posts.size > 0 %}
-    <h2 class="hr">{{ strings.posts | default:"Posts" }}</h2>
-    <ul class="related-posts">
-      {% for post in site.posts limit:5 %}
-        {% include components/post-list-item.html post=post %}
-      {% endfor %}
-    </ul>
-  {% endif %}
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
 
-  {% assign pages = site.html_pages | where:"layout","page" | where_exp:"page","page.sitemap != false" %}
-  {% if pages.size > 0 %}
-    <h2 class="hr">{{ strings.pages | default:"Pages" }}</h2>
-    <ul class="related-posts">
-      {% for page in pages limit:5 %}
-        {% if page.layout == 'page' %}
-          <li class="h4">
-            <a href="{{ page.url | relative_url }}" class="flip-title">
-              <span>{{ page.title }}</span>
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endif %}
-</article>
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+            <div class="svg-icon">
+          {% include svg-icons.html %}
+            </div>
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
