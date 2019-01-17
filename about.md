@@ -6,7 +6,7 @@ permalink: /about/
 Actively learn and keep exploring in this field that I love. Now interested in Data Analysis and NLP.
 
 ## Education
-*Bachelor of Science: Computer Science.
+* **Bachelor of Science: Computer Science.
 *University of Alberta 2017- 2021, Edmonton, AB
 *Got admission to the Honors Program with competitive GPA Fall 2018.
 *Expected graduate in Dec, 2021.
