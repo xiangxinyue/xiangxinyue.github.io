@@ -3,11 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
-### [VizProf](https://vizprof-levelupteam13.github.io/vizProf/#/)
+### Group Project
+#### [VizProf](https://vizprof-levelupteam13.github.io/vizProf/#/)
 
 ***
-### Other small projects
+### Other own projects
 #### Simple Web-Spider
 Two web-spider created for scraping some data. One is using the Scrapy frame. The other one is using requests etc.
 
