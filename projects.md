@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### [VizProf](https://vizprof-levelupteam13.github.io/vizProf/#/) 
+### [VizProf]
+https://vizprof-levelupteam13.github.io/vizProf/#/ 
 
 
 ***
