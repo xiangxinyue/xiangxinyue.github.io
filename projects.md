@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 ### Group Project
 #### [VizProf](https://vizprof-levelupteam13.github.io/vizProf/#/)
-
+#### [](https://vizprof-levelupteam13.github.io/vizProf/#/)
 ***
 ### Other own projects
 #### Simple Web-Spider
