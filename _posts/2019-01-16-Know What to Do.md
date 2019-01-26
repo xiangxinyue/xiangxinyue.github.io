@@ -8,6 +8,6 @@ printf("Hello! World!"\n);
 
 ## Why am I here? 
 -----
-I don't know?
+I don't know. I will write more about myslef later =3=
 
 
