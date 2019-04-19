@@ -4,7 +4,7 @@ title: Hello! World!
 author: Xinyue Xiang
 ---
 
-printf("Hello! World!"\n);
+printf("Hello! World!");
 
 ## Why am I here? 
 -----
