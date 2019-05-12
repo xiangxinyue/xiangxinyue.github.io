@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-Actively learn and keep exploring in this field that I love. Now interested in Machine Learning and aim to be a Full Stack Engineer. I take care of kids, and I speak for women in Computer Science so that to promote the diversity in STEM. 
+Actively learn and keep exploring in this field that I love. Aim to be a Full Stack Engineer. I take care of kids, and I speak for women in Computer Science so that to promote the diversity in STEM. 
 
 ## Education
 * 2017-2021 BSc of Computer Science, University of Alberta. Got admission to the Honors Program with competitive GPA Fall 2018. Also, got into the Science Internship Program Jan 2019. Expected graduate in Dec, 2021.
