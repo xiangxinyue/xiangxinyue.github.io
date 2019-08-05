@@ -7,7 +7,7 @@ In February of 2019, I came up with the idea of ​​making my own personal web
 # Requirement
 1)A github id is enough at the beginning! 
 2)If you want to make a better website based on frame you might need to know some basic HTML/CSS/JS. 
-3)Your machine need the Jekyll.
+3)Overall, it is need Github pages + Jekyll + Ruby + Git +md.
 
 # First Step: Let's Go! Create a Repository
 1)Have you github id and know some basic of Git is great.
@@ -17,14 +17,17 @@ In February of 2019, I came up with the idea of ​​making my own personal web
 1)Go to the setting and find the Github Pages.
 2)You will see a link like "Your site is published at https://xiangxinyue.github.io/". Click it and you will see your website.
 
-# Third: Revise the website to your style using Jekyll
+# Third Step: get your machine enviorment prepared
 
-1)You need to install Jekyll in your machine.
+1)Before you have Jekyll in your machine, you need to have ruby and gem. If you do not have ruby in your machine first install ruby and gem.
+2)Use "$ ruby -v" to check your ruby version or if your machine have ruby.
+3)Use "$ brew install ruby" to download ruby.
+4)Use "$ gem install jekyll bundle" to download jekyll. 
+5)You better do the whole things in the Ubuntu, it is better in Mac OS.
+6)I wrote another file about "Mac OS download Jekyll".
 
-2)Another way to open it is "cd xiangxinyue.github.io" in terminal. -> then "bundle exec jekyll serve". Then you can go through Returned IP address like 
-
-
-# 
+# Fourth Step: Revise the website to your style using Jekyll
+1)Another way to open the website is "cd xiangxinyue.github.io" in terminal. -> then "bundle exec jekyll serve". Then you can go through Returned IP address and to look at your website through localhost.
 
 #
 
