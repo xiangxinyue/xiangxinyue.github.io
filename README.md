@@ -20,8 +20,8 @@ In February of 2019, I came up with the idea of ​​making my own personal web
 # Third Step: get your machine enviorment prepared
 
 1)Before you have Jekyll in your machine, you need to have ruby and gem. If you do not have ruby in your machine first install ruby and gem.
-2)Use "$ ruby -v" to check your ruby version or if your machine have ruby.
-3)Use "$ brew install ruby" to download ruby.
+2)Use "$ ruby -v" to check your ruby version or if your machine have ruby. Mac OS already have ruby but you better to get a newest one.
+3)Use "$ brew install ruby" to download ruby. If you do not have home brew in your machine use the command "$/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 4)Use "$ gem install jekyll bundle" to download jekyll. 
 5)You better do the whole things in the Ubuntu, it is better in Mac OS.
 6)I wrote another file about "Mac OS download Jekyll".
