@@ -23,7 +23,7 @@ In February of 2019, I came up with the idea of ​​making my own personal web
 
 2)You will see a link like "Your site is published at https://xiangxinyue.github.io/". Click it and you will see your website.
 
-# Third Step: get your machine enviorment prepared
+# Third Step: Get your machine enviorment prepared
 
 1)Before you have Jekyll in your machine, you need to have ruby and gem. If you do not have ruby in your machine first install ruby and gem.
 
