@@ -1,22 +1,22 @@
 # Building a static website with GitHub Pages 
-I am going to write a readme for anyone, including people who don't have a lot of computer foundations. 
+I am going to write a readme for anyone, including people who don't have a lot of computer science foundation. 
 So that people can use GitHub Pages to build their own static websites in a short time.
 This readme will also include the steps to buy a domain name (if you do want to have your own domain name instead of github.io), resolve the domain name, and so on.
 
 # About
-In February of 2019, I came up with the idea of ​​making my own personal website/tech blog. At that time, I was the second year computer major student who was looking for an internship so this website might help me more on that time. Ans also it is the time when I really wanted to learn new knowledge.
+In February of 2019, I came up with the idea of making my own personal website/tech blog. At that time, I was a second year computer major student who was looking for an internship so this website might help me more on that time. And also it is the time when I really wanted to learn new knowledge.
 
 # Requirement
 1)A github id is enough at the beginning! 
 
 2)If you want to make a better website based on frame you might need to know some basic HTML/CSS/JS.
 
-3)Overall, it is need Github pages + Jekyll + Ruby + Git +md.
+3)Overall, it is Github pages + Jekyll + Ruby + Git + md.
 
 # First Step: Let's Go! Create a Repository
-1)Have you github id and know some basic of Git is great.
+1)Have your github id and know some Git basics.
 
-2)create a new repository named like xiangxinyue.github.io (name.github.io).
+2)Create a new repository named like xiangxinyue.github.io (name.github.io).
 
 # Second Step: Choose a theme or fork other people's repo
 1)Go to the setting and find the Github Pages.
