@@ -13,11 +13,6 @@ Developed in HackED 2019.
 A Web-Application that show a story about cat Damion. Using React and Speech API.
 
 ### Other own projects
-#### Simple Web-Spider
-Two web-spider created for scraping some data. One is using the Scrapy frame. The other one is using requests etc.
-
-#### Simple Data-Visulization 
-Using d3 to do some visulize to make simple bar chart and pie chart.
 
 ## Details
 To find the details go to my GitHub.
