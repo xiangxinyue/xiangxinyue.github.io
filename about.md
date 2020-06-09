@@ -19,7 +19,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 ## Experience
 
 
-Research Asstant - Software Developer & Machine Learning Enginner Intern/Parttime, Dec 2019 - Present.
+**Research Asstant - Software Developer & Machine Learning Enginner Intern/Parttime, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
 
 - As part of the Cognitive Neuroscience Lab, researched topics related to voice classifications and audio loss.
 
@@ -34,7 +34,7 @@ Research Asstant - Software Developer & Machine Learning Enginner Intern/Parttim
 - Transferred the backend to use the Node.js and MongoDB.
 
 
-Software Developer & Machine Learning Specialist Intern, Revere Technologies, Oct 2019 - May 2020.
+**Software Developer & Machine Learning Specialist Intern, Revere Technologies, Oct 2019 - May 2020.**
 
 - Designed prototypes using Figma, focus on user-friendly UI design and Front-end development using ReactJS, Material UI library.
 
@@ -49,7 +49,7 @@ Software Developer & Machine Learning Specialist Intern, Revere Technologies, Oc
 - Used docker and its containers to deploy the model quickly.
 
 
-Research Assistant - Data Engineer Parttime, Business School at University of Alberta, Oct 2019 - Dec 2019.
+**Research Assistant - Data Engineer Parttime, Business School UAlberta, Oct 2019 - Dec 2019.**
 
 - Analyzing the branding and marketing strategies of big companies by analyzing their twitter feeds. 
 
@@ -58,7 +58,7 @@ Research Assistant - Data Engineer Parttime, Business School at University of Al
 - Supervised by Professor Sarah Moore and PhD student K.B Boo.
 
 
-Summer Student, the Startup Edmonton, May 2019 - Sep 2019.
+**Summer Student, the Startup Edmonton, May 2019 - Sep 2019.**
 
 - Attended weekly business-oriented workshops discussing on how to build a company and obtain customer growth. 
 
@@ -71,7 +71,7 @@ Summer Student, the Startup Edmonton, May 2019 - Sep 2019.
 - Link to the startup company and open-source code: https://github.com/xiangxinyue/Decision_Course
 
 
-Software Developer Part Time, Decision Startup Team, May 2019 - Sep 2019.
+**Software Developer Part Time, Decision Startup Team, May 2019 - Sep 2019.**
 
 - Founded and led a team of 7 including engineers and designers. 
 
@@ -87,7 +87,7 @@ Software Developer Part Time, Decision Startup Team, May 2019 - Sep 2019.
 
 
 ## Education
-2017-2021 BSc of Computer Science, University of Alberta. 
+**2017-2021 BSc of Computer Science, University of Alberta.**
 
 - Science Internship Program(Coop).
 
@@ -97,7 +97,7 @@ Software Developer Part Time, Decision Startup Team, May 2019 - Sep 2019.
 
 - Relevant Coursework: Database, Algorithms, Digital Image Process, Algorithms of Alpha-Go, Reinforcement Learning, Visual Recognization, 3D Modeling, Software Engineering.
 
-2016-2017 BSc of Computer Science, Zhejiang University City College. 
+**2016-2017 BSc of Computer Science, Zhejiang University City College.**
 
 - Received Early Admission to one of the top 3 individual colleges in China.
 
