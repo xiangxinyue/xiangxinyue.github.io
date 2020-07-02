@@ -97,6 +97,10 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 - Relevant Coursework: Database, Algorithms, Digital Image Process, Algorithms of Alpha-Go, Reinforcement Learning, Visual Recognization, 3D Modeling, Software Engineering.
 
+
+**2020 Summer Exchange, Peking University.**
+
+
 **2016-2017 BSc of Computer Science, Zhejiang University City College.**
 
 - Received Early Admission to one of the top 3 individual colleges in China.
