@@ -19,7 +19,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 ## Experience
 
 
-**Research Asstant - Software Developer & Machine Learning Enginner Intern/Parttime, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
+**Research Asstant - Software Developer & Machine Learning Enginner Intern/Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
 
 - As part of the Cognitive Neuroscience Lab, researched topics related to voice classifications and audio loss.
 
@@ -32,6 +32,11 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 - Established and managed the deployment on Heroku.
 
 - Transferred the backend to use the Node.js and MongoDB.
+
+
+**Software Consultant, HLH LLP Chartered Professional Accountants **
+
+- Robotic Automation Process.
 
 
 **Software Developer & Machine Learning Specialist Intern, Revere Technologies, Oct 2019 - May 2020.**
@@ -49,7 +54,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 - Used docker and its containers to deploy the model quickly.
 
 
-**Research Assistant - Data Engineer Parttime, Business School UAlberta, Oct 2019 - Dec 2019.**
+**Research Assistant - Data Engineer Part Time, Business School UAlberta, Oct 2019 - Dec 2019.**
 
 - Analyzing the branding and marketing strategies of big companies by analyzing their twitter feeds. 
 
