@@ -72,6 +72,8 @@ This Github Pages is based on Jekyll-Mono.
 
 The first version (Jan 2019 - July 2019) is based on the repo crafted by [Akshay Agarwal](https://github.com/AkshayAgarwal007). Thanks to him!
 
+Will continue update ...
+
 
  
 
