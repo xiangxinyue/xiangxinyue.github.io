@@ -19,7 +19,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 ## Experience
 
 
-**Research Asstant - Software Developer & Machine Learning Enginner Intern/Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
+**Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
 
 - As part of the Cognitive Neuroscience Lab, researched topics related to voice classifications and audio loss.
 
@@ -34,9 +34,15 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 - Transferred the backend to use the Node.js and MongoDB.
 
 
-**Software Consultant, HLH LLP Chartered Professional Accountants **
+**Software Automation Engineer Consultant, HLH LLP Chartered Professional Accountants **
 
-- Robotic Automation Process.
+- Robotic Automation Processing.
+
+- Windows UI Automation API.
+
+- UI Path Automation Process Development.
+
+- Quickbooks, Sage, Tax Prep, CCH iFirm, CCH Documents.
 
 
 **Software Developer & Machine Learning Specialist Intern, Revere Technologies, Oct 2019 - May 2020.**
