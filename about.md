@@ -17,7 +17,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 
 ## Experience
-
+**Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Present**
 
 **Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
 
@@ -34,7 +34,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 - Transferred the backend to use the Node.js and MongoDB.
 
 
-**Software Automation Engineer Consultant, HLH LLP Chartered Professional Accountants **
+**Software Automation Engineer Consultant, HLH LLP Chartered Professional Accountants. June 2020 - Sep 2020**
 
 - Robotic Automation Processing.
 
