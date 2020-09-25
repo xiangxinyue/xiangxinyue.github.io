@@ -111,16 +111,14 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 **2020 Summer Exchange, Peking University.**
 
+- Due to COVID19, it is changed to online delivery. The program duration is from June 2020 to July 2020.
 
-**2016-2017 BSc of Computer Science, Zhejiang University City College.**
+- Relevant Coursework: China in the Global Economy, Intro to the Chinese Economy, Contemporary China.
 
-- Received Early Admission to one of the top 3 individual colleges in China.
-
-- Attained a grade higher than the First Tier level (top 10%) in the National College Entrance Exam.
-
-- Participated in the ACM Class, Robotics Club, and being the leader of the class.
+- Two academic papers topics were specific in the Chinese Economy. Case study of Shenzhen and Hukou System.
 
 ## Others
+
 For more information about my experience you can check out my Linkedin.
 
 
