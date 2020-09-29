@@ -5,19 +5,22 @@ permalink: /about/
 ---
 I'm a passionate, efficient, and creative individual that loves problem solving and engineering elegant software. To be more specific, I have:
 
-• 2 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Flutter, Java, Swift, Xcode, Android Studio, and Visual Studio Code.
+• 3 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Flutter, Java, Swift, Xcode, Android Studio, and Visual Studio Code.
 
-• 1 year of hands-on experience in data engineering where I cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
+• 2 year of hands-on experience in data engineering where I cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
 
-• 1 year of practical experience and solid knowledge to master different types of databases including SQL database Mysql, SQLite, and NoSQL database such as Firebase, and MongoDB.
+• 2 year of practical experience and solid knowledge to master different types of databases including SQL database Mysql, SQLite, and NoSQL database such as Firebase, and MongoDB.
 
-• 2 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies.
+• 3 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies.
 
 • Exceptional skills demonstrated in source control and continuous integration tools such as Git, Travis CI, and Circle CI. 
 
 
 ## Experience
+
 **Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Present**
+
+- Frontend with JS, backend with C++.
 
 **Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
 
@@ -119,7 +122,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 ## Others
 
-For more information about my experience you can check out my Linkedin.
+For more information about my experience you can check out my Linkedin, click the icon at the buttom.
 
 
 
