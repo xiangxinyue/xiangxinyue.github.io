@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Projects
+title: Projects 
 permalink: /projects/
 ---
-### Group Project
-
+### Group Project - click the name of project can jump to the repo
 #### [Aspire](https://github.com/AspireUni/Aspire)
 - We are making a Tinder-like Linkedin social networking application that aims to help students in the University to find their best career mentors by analyzing their own profile.
 - Developing using Flutter, Dart, VS Code, Github, TravisCI.
