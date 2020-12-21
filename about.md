@@ -20,7 +20,11 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 **Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Present**
 
-- Frontend with JS, backend with C++.
+- Developing on SCADACOM System (supervisory control and data acquisition) with backend C++ and frontend JavaScript.
+
+- Implementing business logics and functions that have been directly applied in multiple metro lines, water/power/gas pipelines such as Vancouver Skytrain and New York JFK airport transportation line.
+
+- Fixing bugs and writing documents for the system, testing using the Python script.
 
 **Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
 
