@@ -56,7 +56,7 @@ In February of 2019, I came up with the idea of making my own personal website/t
 
 3)Management Console → Domain Name and Website (Internet) → Domain Name.
 
-4)Add parsing. Add two A record types separately. A host record is www, which represents the domain name that can resolve www.xiangxinyue.top( I bought it from ali cloud)
+4)Add parsing. Add two A record types separately. A host record is www, which represents the domain name that can resolve www.xiangxinyue.com( I bought it online)
 The other is @, representing xiangxinyue.com.
 
 5)The recorded value is the IP address of our blog, which is the address of the GitHub Pagas server in the United States 151.101.100.133. Because the Github Pages use the CNAME to lead it to your github io.
@@ -72,7 +72,7 @@ This Github Pages is based on Jekyll-Mono.
 
 The first version (Jan 2019 - July 2019) is based on the repo crafted by [Akshay Agarwal](https://github.com/AkshayAgarwal007). Thanks to him!
 
-Will continue update ...
+Will continue update the blog
 
  
 
