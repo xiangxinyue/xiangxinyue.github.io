@@ -1,8 +1,12 @@
-Building a static website with GitHub Pages
-I am going to write a readme for anyone, including people who don't have a lot of computer science foundation. So that people can use GitHub Pages to build their own static websites in a short time. This readme will also include the steps to buy a domain name (if you do want to have your own domain name instead of github.io), resolve the domain name, and so on.
+--- 
+layout: post
+title: Building a static website with GitHub Pages
+author: Xinyue Xiang
+---
+I am going to write a page for anyone that people can use GitHub Pages to build their own static websites in a short time. This will also include the steps to buy a domain name (if you do want to have your own domain name instead of github.io), resolve the domain name, and so on.
 
 About
-In February of 2019, I came up with the idea of making my own personal website/tech blog. At that time, I was a second year computer major student who was looking for an internship so this website might help me more on that time. And also it is the time when I really wanted to learn new knowledge.
+In 2019, I came up with the idea of making my own personal website/tech blog. At that time, I was a second year computer major student who was looking for an internship so this website might help me more on that time. And also it is the time when I really wanted to learn new knowledge.
 
 Requirement
 1)A github id is enough at the beginning!
