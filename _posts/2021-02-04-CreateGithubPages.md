@@ -5,11 +5,11 @@ author: Xinyue Xiang
 ---
 I am going to write a page for anyone that people can use GitHub Pages to build their own static websites in a short time. This will also include the steps to buy a domain name (if you do want to have your own domain name instead of github.io), resolve the domain name, and so on.
 
-About
+# About
 
 In 2019, I came up with the idea of making my own personal website/tech blog. At that time, I was a second year computer major student who was looking for an internship so this website might help me more on that time. And also it is the time when I really wanted to learn new knowledge.
 
-Requirement
+# Requirement
 
 1)A github id is enough at the beginning!
 
@@ -17,19 +17,19 @@ Requirement
 
 3)Overall, it is Github pages + Jekyll + Ruby + Git + md.
 
-First Step: Let's Go! Create a Repository
+# First Step: Let's Go! Create a Repository
 
 1)Have your github id and know some Git basics.
 
 2)Create a new repository named like xiangxinyue.github.io (name.github.io).
 
-Second Step: Choose a theme or fork other people's repo
+# Second Step: Choose a theme or fork other people's repo
 
 1)Go to the setting and find the Github Pages.
 
 2)You will see a link like "Your site is published at https://xiangxinyue.github.io/". Click it and you will see your website.
 
-Third Step: Get your machine enviorment prepared
+# Third Step: Get your machine enviorment prepared
 
 1)Before you have Jekyll in your machine, you need to have ruby and gem. If you do not have ruby in your machine first install ruby and gem.
 
@@ -41,7 +41,7 @@ Third Step: Get your machine enviorment prepared
 
 5)You better do the whole things in the Ubuntu, it is better in Mac OS.
 
-Fourth Step: Revise the website to your style using Jekyll
+# Fourth Step: Revise the website to your style using Jekyll
 
 1)Another way to open the website is "cd xiangxinyue.github.io" in terminal. -> then "bundle exec jekyll serve". Then you can go through Returned IP address and to look at your website through localhost.
 
@@ -53,7 +53,7 @@ Fourth Step: Revise the website to your style using Jekyll
 
 5)Use the local host to see your revision.
 
-Fifth Step : Your self define domain name
+# Fifth Step : Your self define domain name
 
 1)Buy a domain name.
 
@@ -69,7 +69,7 @@ Well done!
 
 If you do want to futuer develop your website, see the jekyll document https://jekyllrb.com/
 
-Conclusion
+# Conclusion
 
 The hardest part is to set the envirment in Mac OS. So I wrote another document about "How to download Jekyll in Mac OS" and will put it in my github. But using Ubuntu is a great choice.
 
