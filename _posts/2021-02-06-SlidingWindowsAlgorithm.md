@@ -9,7 +9,8 @@ author: Xinyue Xiang
 The sliding window algorithm can be used to solve the problem of the sub-string of the array/string. 
 In another word, it is an advanced double pointers framework to solve some leetcode questions.
 It can convert the nested loop problem into a single loop problem and reduce the time complexity.
-(Noted:Sub-string questions can look at the Python function find().)
+
+(Noted:Sub-string questions can look at the Python function find.)
 
 # Types of the problem
 
@@ -36,12 +37,19 @@ The idea of sliding window algorithm is this:
 Pseudocode
 
 ```python 3
+
 left = 0, right = 0;
+
 while (right < s.size()) {
+
     window.add(s[right]);
+    
     right+=1;
+    
     while (valid) {
+    
         window.remove(s[left]);
+        
         left+=1;
     }
 }
