@@ -1,8 +1,10 @@
 --- 
 layout: post
-title: Brief notes about the Sliding Windows Algorithm
+title: Brief notes about the Sliding Window Algorithm
 author: Xinyue Xiang
 ---
+
+Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
 # Introduction
 
@@ -73,6 +75,5 @@ https://www.zhihu.com/question/314669016
 
 
 
-# Quote
 
-Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+
