@@ -36,16 +36,11 @@ The idea of sliding window algorithm is this:
 Pseudocode
 
 ```python 3
-left = 0;
-right = 0;
-
+left = 0, right = 0;
 while (right < s.size()) {
-    #  make window larger
     window.add(s[right]);
     right+=1;
-    
     while (valid) {
-        # make window smaller
         window.remove(s[left]);
         left+=1;
     }
