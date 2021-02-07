@@ -1,15 +1,18 @@
 --- 
 layout: post
-title: Brief notes about the Sliding Windows Algorithm
+title: Brief notes about the Sliding Window Algorithm
 author: Xinyue Xiang
 ---
+
+Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
 # Introduction
 
 The sliding window algorithm can be used to solve the problem of the sub-string of the array/string. 
 In another word, it is an advanced double pointers framework to solve some leetcode questions.
 It can convert the nested loop problem into a single loop problem and reduce the time complexity.
-(Noted:Sub-string questions can look at the Python function find().)
+
+(Noted:Sub-string questions can look at the Python function find.)
 
 # Types of the problem
 
@@ -36,12 +39,19 @@ The idea of sliding window algorithm is this:
 Pseudocode
 
 ```python 3
+
 left = 0, right = 0;
+
 while (right < s.size()) {
+
     window.add(s[right]);
+    
     right+=1;
+    
     while (valid) {
+    
         window.remove(s[left]);
+        
         left+=1;
     }
 }
@@ -65,6 +75,5 @@ https://www.zhihu.com/question/314669016
 
 
 
-# Quote
 
-Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+
