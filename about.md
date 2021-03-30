@@ -18,6 +18,10 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 ## Experience
 
+**Software Developer Intern Part Time, NetEase, Mar 2021 - Present**
+
+- Based in Research Institute, focus on the Internet of Things (IoT).
+
 **Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Present**
 
 - Developing on SCADACOM System (supervisory control and data acquisition) with backend C++ and frontend JavaScript.
@@ -26,7 +30,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 - Fixing bugs and writing documents for the system, testing using the Python script.
 
-**Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Present.**
+**Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Mar 2021.**
 
 - As part of the Cognitive Neuroscience Lab, researched topics related to voice classifications and audio loss.
 
