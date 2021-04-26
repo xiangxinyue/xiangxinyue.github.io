@@ -22,7 +22,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 - Based in Research Institute, focus on the Internet of Things (IoT).
 
-**Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Present**
+**Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Apr 2021**
 
 - Developing on SCADACOM System (supervisory control and data acquisition) with backend C++ and frontend JavaScript.
 
