@@ -18,9 +18,23 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 ## Experience
 
-**Software Developer Intern Part Time, NetEase, Mar 2021 - Present**
+**Software Developer Intern Full Time, NetEase, Mar 2021 - Present**
 
-- Based in Research Institute, focus on the Internet of Things (IoT).
+- Based in the Research Institute, focus on the IoT(Internet of Things).
+
+- Front-end development of Web and Mobile Application.
+
+- Cloud Computing, Big Data, Industry Internet.
+
+**Research Asstant Part Time, Carnegie Mellon University, May 2021 - Present.**
+
+- Software Engineering.
+
+- Machine Learning.
+
+- Semi-Supervised Learning.
+
+- NLP.
 
 **Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Apr 2021**
 
