@@ -18,57 +18,62 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 ## Experience
 
-**Software Developer Intern Full Time, NetEase, Mar 2021 - Present**
+**Research Asstant Part Time, Zhejiang University, Aug 2021 - Present.**
 
-- Based in the Research Institute, focus on the IoT(Internet of Things).
+- Remote working.
 
-- Front-end development of Web and Mobile Application.
+- NLP, LSTM, RNNs.
 
-- Cloud Computing, Big Data, Industry Internet.
+- Chinese Academy of Sciences.
+
+- Zhejiang Provincial Government funding.
 
 **Research Asstant Part Time, Carnegie Mellon University, May 2021 - Present.**
 
-- Software Engineering.
+- Remote working.
 
-- Machine Learning.
+- Focus on GitHub code review comments analysis.
 
-- Semi-Supervised Learning.
+- Applying Machine Learning such as Semi-Supervised Learning combine with NLP.
 
-- NLP.
+- Using snorkel library by Stanford to develop the comment analyst project.
+
+**Software Developer Intern Full Time, NetEase, Mar 2021 - July 2021**
+
+- Based in the Research Institute, focus on the IoT(Internet of Things).
+
+- Front-end development of Web and Mobile Application within Cloud Computing, Big Data, Industry Internet fields.
+
+- Experienced in software development specifically h5 small app and web application using
+ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack, babel.
 
 **Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Apr 2021**
 
-- Developing on SCADACOM System (supervisory control and data acquisition) with backend C++ and frontend JavaScript.
+- Developed on SCADACOM System (supervisory control and data acquisition) with backend C++ and frontend JavaScript.
 
-- Implementing business logics and functions that have been directly applied in multiple metro lines, water/power/gas pipelines such as Vancouver Skytrain and New York JFK airport transportation line.
+- Implemented business logics and functions that have been directly applied in multiple metro lines, water/power/gas pipelines such as Vancouver Skytrain and New York JFK airport transportation line.
 
-- Fixing bugs and writing documents for the system, testing using the Python script.
+- Fixed bugs and writing documents for the system, testing using the Python script.
+
+- OOP development experience (C++ and JavaScript) with an understanding of unit testing & Test-Driven Development (TDD).
+
+- Experienced with machine learning software and tools (Tensorflow, PyTorch).
+
+- Experienced in software development using python, bash; Qt 4+; React, jQuery, NodeJS; Redis / Redis Streams; Docker; MongoDB, MySQL; CentOS.
 
 **Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Mar 2021.**
 
-- As part of the Cognitive Neuroscience Lab, researched topics related to voice classifications and audio loss.
+- As part of the Cognitive Neuroscience Lab, Neuroscience, and Mental Health Institute. Researched topics related to voice classifications, audio loss, and cognitive science. Supervised by Dr. Bill Hodgetts, Dr. Jacqueline Cummine, and Ph.D. student Kulpreet Cheema.
 
-- Supervised by Dr. Bill Hodgetts, Dr. Jacqueline Cummine, and Ph.D student Kulpreet Cheema.
+- Developed application of Machine Learning in audiology. Used the CNN network to train a voice classification model with TensorFlow and Keras.
 
-- Designed and developed a literacy training web application for a non-profit organization using React, Redux, and jQuery.
+- Wrote a paper about voice classification in the audiology field and the paper got accepted by Applied Sciences https://www.mdpi.com/2076-3417/11/12/5659.
 
-- Implemented the google login authentication system with Firebase that has reached more than 100 users.
+- Designed and developed a literacy training web application using React, Redux, and jQuery.
 
-- Established and managed the deployment on Heroku.
+- Implemented the google login authentication system with Firebase at the first time. Due to the user experience, transferred to the backend to use the Node.js, MongoDB, and AWS.
 
-- Transferred the backend to use the Node.js and MongoDB.
-
-
-**Software Automation Engineer Consultant, HLH LLP Chartered Professional Accountants. June 2020 - Sep 2020**
-
-- Robotic Automation Processing.
-
-- Windows UI Automation API.
-
-- UI Path Automation Process Development.
-
-- Quickbooks, Sage, Tax Prep, CCH iFirm, CCH Documents.
-
+- Current Architecture: Language using JavaScript, HTML, and CSS; Frontend using React.js, Redux.js, Material-UI; Backend using Node.js, Express.js, Passport.js, Mongoose.js; Database using MongoDB, AWS S3; Dev tools using Postman, Google-OAuth2.0, Herokuapp.
 
 **Software Developer & Machine Learning Specialist Intern, Revere Technologies, Oct 2019 - May 2020.**
 
