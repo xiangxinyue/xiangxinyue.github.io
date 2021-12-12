@@ -28,20 +28,6 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 - Zhejiang Provincial Government funding.
 
-**Full Stack Developer Part Time, Biosysen, Sep 2021 - Nov 2021.**
-
-- Remote working.
-
-- Responsible for the development, operation and maintenance of the company website and WeChat small app.
-
-- Cooperate with R&D team to develop and maintain R&D database.
-
-- Developing data visualization tools and web UI interfaces for R&D tools.
-
-- Developing algorithms and processes for genome design and iteration.
-
-- Developing SaaS tools and analysis processes that serve brands and markets.
-
 **Research Asstant Part Time, Carnegie Mellon University, May 2021 - Aug 2021.**
 
 - Remote working.
