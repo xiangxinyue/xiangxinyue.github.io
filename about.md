@@ -18,7 +18,11 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 ## Experience
 
-**Research Asstant Part Time, Zhejiang University, Aug 2021 - Present.**
+**Full Stack Developer Full Time, BMO Financial Group, Mar 2022 - Present.**
+
+- Payment Solutions.
+
+**Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
 - Remote working.
 
