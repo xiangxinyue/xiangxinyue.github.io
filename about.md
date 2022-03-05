@@ -20,17 +20,19 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 **Full Stack Developer Full Time, BMO Financial Group, Mar 2022 - Present.**
 
-- Payment Solutions.
+- Based in the Global Head Quarter at the Toronto Downtown.
+
+- Payment Solutions Team.
 
 **Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
 - Remote working.
 
-- NLP, LSTM, RNNs.
+- Natural language processing (NLP) project in cooperation with the Chinese Academy of Sciences at the start point, Zhejiang Province academic funding, a provincial-level scientific research project.
 
-- Chinese Academy of Sciences.
+- Content: NLP, LSTM, RNNs.
 
-- Zhejiang Provincial Government funding.
+- Converted text data to word vector by LSTM, Extract feature vector of image data by CNN.
 
 **Research Asstant Part Time, Carnegie Mellon University, May 2021 - Aug 2021.**
 
