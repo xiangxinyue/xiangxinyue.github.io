@@ -18,11 +18,11 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 ## Experience
 
-**Full Stack Developer Full Time, BMO Financial Group, Mar 2022 - Present.**
+**Software Developer Full Time, BMO Financial Group, Mar 2022 - Present.**
 
-- Based in the Global Head Quarter at the Toronto Downtown.
+- Based in the Global Head Quarter at the Toronto.
 
-- Payment Solutions Team.
+- Payment and Treasury Team.
 
 **Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
