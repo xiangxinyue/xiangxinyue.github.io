@@ -24,6 +24,12 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 - Payment and Treasury Team.
 
+- Java/ Cloud/ Messaging/ Realtime Payment.
+
+- Early Talent Experience Program.
+
+- Q2 2022 Spotlight Award Winner, Spotlight Awards are given in recognition of outstanding work effort and exemplifying the Being BMO brand on a daily basis.
+
 **Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
 - Remote working.
