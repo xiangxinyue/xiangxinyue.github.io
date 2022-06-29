@@ -5,13 +5,13 @@ permalink: /about/
 ---
 I'm a passionate, efficient, and creative individual that loves problem solving and engineering elegant software. To be more specific, I have:
 
-• 3 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Flutter, Java, Swift, Xcode, Android Studio, and Visual Studio Code.
+• 4 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Flutter, Java, Swift, Xcode, Android Studio, and Visual Studio Code.
 
-• 2 year of hands-on experience in data engineering where I cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
+• 4 year of practical experience and solid knowledge to master different types of databases including SQL database Mysql, SQLite, and NoSQL database such as Firebase, and MongoDB.
 
-• 2 year of practical experience and solid knowledge to master different types of databases including SQL database Mysql, SQLite, and NoSQL database such as Firebase, and MongoDB.
+• 4 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies.
 
-• 3 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies.
+• 3 year of hands-on experience in data engineering where I cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
 
 • Exceptional skills demonstrated in source control and continuous integration tools such as Git, Travis CI, and Circle CI. 
 
