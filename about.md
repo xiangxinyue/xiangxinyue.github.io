@@ -18,7 +18,7 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 ## Experience
 
-**Software Developer Full Time, BMO Financial Group, Mar 2022 - Present.**
+**Software Developer Full Time, BMO, Mar 2022 - Present.**
 
 - Based in the Global Head Quarter in the Toronto.
 
