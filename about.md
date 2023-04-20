@@ -22,13 +22,15 @@ I'm a passionate, efficient, and creative individual that loves problem solving 
 
 - Based in the Global Head Quarter in the Toronto.
 
-- Payment and Treasury Team.
+- Treasury and Payment Solutions Team. (TPS)
 
 - Java/ Cloud/ Messaging/ Realtime Payment.
 
 - Early Talent Experience Program.
 
-- Q2 2022 Spotlight Award Winner, Spotlight Awards are given in recognition of outstanding work effort and exemplifying the Being BMO brand on a daily basis.
+- AWS Winner Team at the BMO Destination Digital Innovation Hackathon 2022.
+
+- Multiple times Spotlight Award Winner, Spotlight Awards are given in recognition of outstanding work effort and exemplifying the Being BMO brand on a daily basis.
 
 **Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
@@ -140,6 +142,15 @@ ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack,
 
 
 ## Education
+
+
+**2023-2025 Master of Applied Data Science, University of Michigan.**
+
+- MADS Scholarship, this scholarship offer is a reflection of many accomplishments and our belief that the candidate will make valuable contributions to the School, and the vastly changing professions in the information field. 
+
+- Same program as the in-person one, online delivery.
+
+
 **2017-2021 BSc of Computer Science, University of Alberta.**
 
 - Science Internship Program(Coop).
