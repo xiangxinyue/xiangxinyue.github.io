@@ -144,9 +144,16 @@ ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack,
 ## Education
 
 
-**2023-2025 Master of Applied Data Science, University of Michigan.**
+**2023-2026 Master of Applied Data Science, University of Michigan.**
 
 - MADS Scholarship, this scholarship offer is a reflection of many accomplishments and our belief that the candidate will make valuable contributions to the School, and the vastly changing professions in the information field. 
+
+- Same program as the in-person one, online delivery.
+
+
+**2023-2026 Master of Computer Science, Georgia Institute of Technology.**
+
+- OMSCS Specialization in Computer Systems.
 
 - Same program as the in-person one, online delivery.
 
