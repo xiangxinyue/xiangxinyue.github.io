@@ -3,34 +3,43 @@ layout: page
 title: About me
 permalink: /about/
 ---
-I'm a passionate, efficient, and creative individual that loves problem solving and engineering elegant software. To be more specific, I have:
+Xinyue is a passionate, efficient, and creative individual that loves problem-solving and engineering elegant software. To be more specific, she has:
 
-• 4 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Flutter, Java, Swift, Xcode, Android Studio, and Visual Studio Code.
+- 5 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Node.JS, Flutter, Java, C++, Xcode, Android Studio, and Visual Studio Code.
 
-• 4 year of practical experience and solid knowledge to master different types of databases including SQL database Mysql, SQLite, and NoSQL database such as Firebase, and MongoDB.
+- 5 years of practical experience and solid knowledge to master different types of databases including relational databases such as Mysql, SQLite, and NoSQL databases such as Firebase, and MongoDB. 
 
-• 4 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies.
+- 5 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies. 
 
-• 3 year of hands-on experience in data engineering where I cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
+- 4 years of hands-on experience in data engineering where she cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
 
-• Exceptional skills demonstrated in source control and continuous integration tools such as Git, Travis CI, and Circle CI. 
+- Exceptional skills demonstrated in source control and continuous integration tools such as Git, Travis CI, and Circle CI. 
 
+- Exceptional skills demonstrated in DevOps tools such as AWS and Google Cloud Platform.
 
 ## Experience
 
 **Software Developer Full Time, BMO, Mar 2022 - Present.**
 
-- Based in the Global Head Quarter in the Toronto.
-
-- Treasury and Payment Solutions Team. (TPS)
-
-- Java/ Cloud/ Messaging/ Realtime Payment.
-
-- Early Talent Experience Program.
-
+- Ranked 104 in the Forbes 2000 globally.
+  
+- Ranked 294 in the Fortune 500 globally.
+  
+- Based in the Global Head Quarter in the Toronto, Technology and Operations of Commercial Bank, Treasury and Payment Solutions Team. (TPS)
+  
+- Named one of ten BMO's Fall 2023 and Winter 2024 New Grad Influencers.
+  
+- Early Talent Experience Program Alumni.
+  
 - AWS Winner Team at the BMO Destination Digital Innovation Hackathon 2022.
-
+  
+- Salesforce Winner Team at the BMO Destination Digital Innovation Hackathon 2024.
+  
 - Multiple times Spotlight Award Winner, Spotlight Awards are given in recognition of outstanding work effort and exemplifying the Being BMO brand on a daily basis.
+  
+- Java/ NodeJS/ AngularJS/ AWS/ Microservices/ Cloud Computing Migration/ Messaging/ Realtime Payment.
+  
+- Key Projects: Fraud/AML/ERE Adaption, Bank of the West Acquisition, TIBCO exit, ISO 2022, BMO's Cloud-Based Payment System. (Could Migration)
 
 **Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
@@ -151,7 +160,7 @@ ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack,
 - Same program as the in-person one, online delivery.
 
 
-**2023-2026 Master of Computer Science, Georgia Institute of Technology.**
+**2023-2025 Master of Computer Science, Georgia Institute of Technology.**
 
 - OMSCS Specialization in Computer Systems.
 
