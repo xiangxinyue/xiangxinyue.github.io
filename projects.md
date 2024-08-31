@@ -23,9 +23,9 @@ permalink: /projects/
 ### Personal Project
 
 #### [Decision Course](https://github.com/xiangxinyue/Decision_Course)
--Frontend: ReactJS, EJS, Backend: Node.js, Database: MongoDB, Server: Heroku, Other frameworks: Express.
--Implemented the initial database using MongoDB eventually due to performance and cross-platform capability.
--Cooperated with teammates to develop the Python-based web crawler to fetch required data.
+- Frontend: ReactJS, EJS, Backend: Node.js, Database: MongoDB, Server: Heroku, Other frameworks: Express.
+- Implemented the initial database using MongoDB eventually due to performance and cross-platform capability.
+- Cooperated with teammates to develop the Python-based web crawler to fetch required data.
 
 ## Details
 To find more and the details, please go to my GitHub.
