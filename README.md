@@ -55,7 +55,7 @@ In 2019, I came up with the idea of making my own personal website/tech blog. At
 
 3)Management Console → Domain Name and Website (Internet) → Domain Name.
 
-4)Add parsing. Add two A record types separately. A host record is www, which represents the domain name that can resolve www.xiangxinyue.com( I bought it online)
+4)Add parsing. Add two A record types separately. A host record is www, which represents the domain name that can resolve www.xiangxinyue.com (I bought it online)
 The other is @, representing xiangxinyue.com.
 
 5)The recorded value is the IP address of our blog, which is the address of the GitHub Pagas server in the United States 151.101.100.133. Because the Github Pages use the CNAME to lead it to your github io.
