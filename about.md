@@ -31,6 +31,8 @@ Xinyue is a passionate, efficient, and creative individual that loves problem-so
   
 - Early Talent Experience Program Alumni.
   
+- Employee Giving Ambassador for BMO 2024.
+  
 - AWS Winner Team at the BMO Destination Digital Innovation Hackathon 2022.
   
 - Salesforce Winner Team at the BMO Destination Digital Innovation Hackathon 2024.
@@ -39,7 +41,7 @@ Xinyue is a passionate, efficient, and creative individual that loves problem-so
   
 - Java/ NodeJS/ AngularJS/ AWS/ Microservices/ Cloud Computing Migration/ Messaging/ Realtime Payment.
   
-- Key Projects: Fraud/AML/ERE Adaption, Bank of the West Acquisition, TIBCO exit, ISO 2022, BMO's Cloud-Based Payment System. (Could Migration)
+- Key Projects: Fraud/AML/ERE Adaption, Bank of the West Acquisition, TIBCO exit, ISO 20022, BMO's Cloud-Based Payment System. (Could Migration)
 
 **Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
@@ -155,7 +157,11 @@ ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack,
 
 **2023-2026 Master of Applied Data Science, University of Michigan.**
 
-- MADS Scholarship, this scholarship offer is a reflection of many accomplishments and our belief that the candidate will make valuable contributions to the School, and the vastly changing professions in the information field. 
+- MADS Scholarship, this scholarship offer is a reflection of many accomplishments and our belief that the candidate will make valuable contributions to the School, and the vastly changing professions in the information field.
+
+- Focus on Artificial Intelligence and advanced machine learning techniques.
+  
+- Relevant coursework: Deep Learning, Unsupervised Learning, Reinforcement Learning Algorithms, Applied Natural Language Processing, Machine Learning Pipelines, Search and Recommender Systems.
 
 - Same program as the in-person one, online delivery.
 
@@ -163,6 +169,8 @@ ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack,
 **2023-2025 Master of Computer Science, Georgia Institute of Technology.**
 
 - OMSCS Specialization in Computer Systems.
+  
+- Relevant coursework: High-Performance Computer Architecture, Operating Systems, Software Architecture and Design, Computer Networks, Software Development Process, Full Stack Database Systems, Software Analysis and Testing, Graduate Algorithms.
 
 - Same program as the in-person one, online delivery.
 
