@@ -20,10 +20,6 @@ Xinyue is a passionate, efficient, and creative individual that loves problem-so
 ## Experience
 
 **Software Developer Full Time, BMO, Mar 2022 - Present.**
-
-- Ranked 104 in the Forbes 2000 globally.
-  
-- Ranked 294 in the Fortune 500 globally.
   
 - Based in the Global Head Quarter in the Toronto, Technology and Operations of Commercial Bank, Treasury and Payment Solutions Team. (TPS)
   
