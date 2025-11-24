@@ -4,12 +4,12 @@ title: About me
 permalink: /about/
 ---
 
-I am a quantitative-oriented senior software developer with strong capabilities in large-scale engineering, AI research, and data-intensive computation. My technical work spans pricing systems, simulation frameworks, distributed microservices, and applied machine learning.
+I am a senior software developer specializing in quantitative technology, with a strong focus on large-scale engineering, distributed pricing systems, and data-intensive computation. My work sits at the intersection of front-office engineering and quantitative workflows, supporting traders and quants through high-performance infrastructure and analytical tooling.
 
 Core strengths include:
 
-- Quantitative engineering:
-Monte Carlo simulation, exposure modeling (EE/PFE/CVA), stochastic scenario generation, and risk-factor modeling for pricing and analytics workflows.
+- Quantitative technology & analytics integration:
+Experience implementing and scaling pricing workflows, scenario-based analytics, and risk-driven computation pipelines. Work closely with quantitative teams to translate models and analytics into reliable, production-grade services used across trading and risk platforms.
 
 - Distributed backend systems:
 Python microservices, REST APIs, service-oriented architecture, Docker/Kubernetes, high-throughput processing, cloud compute, and event-driven system design.
@@ -26,7 +26,8 @@ ETL pipelines, market/investment data processing, cloud-based automation (AWS/GC
 - Full-stack & systems fundamentals:
 Background in Java, C++, JavaScript/React, Node.js, and multi-platform development, supporting strong systems intuition and production resilience.
 
-I focus on building reliable and scalable quantitative infrastructure that integrates modeling, AI capabilities, and high-performance engineering to support robust decision-making in trading, risk, and investment environments.
+My focus is on building scalable, resilient quantitative infrastructure that integrates engineering, analytics, and AI capabilities to support front-office decision-making in trading, risk, and investment environments.
+
 
 ## Experience
 
