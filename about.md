@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a quantitative-oriented software developer with strong capabilities in large-scale engineering, AI research, and data-intensive computation. My technical work spans pricing systems, simulation frameworks, distributed microservices, and applied machine learning.
+I am a quantitative-oriented senior software developer with strong capabilities in large-scale engineering, AI research, and data-intensive computation. My technical work spans pricing systems, simulation frameworks, distributed microservices, and applied machine learning.
 
 Core strengths include:
 
