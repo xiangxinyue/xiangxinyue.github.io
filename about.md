@@ -3,23 +3,50 @@ layout: page
 title: About me
 permalink: /about/
 ---
-Xinyue is a passionate, efficient, and creative individual that loves problem-solving and engineering elegant software. To be more specific, she has:
 
-- 5 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Node.JS, Flutter, Java, C++, Xcode, Android Studio, and Visual Studio Code.
+I am a quantitative-oriented software developer with strong capabilities in large-scale engineering, AI research, and data-intensive computation. My technical work spans pricing systems, simulation frameworks, distributed microservices, and applied machine learning.
 
-- 5 years of practical experience and solid knowledge to master different types of databases including relational databases such as Mysql, SQLite, and NoSQL databases such as Firebase, and MongoDB. 
+Core strengths include:
 
-- 5 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies. 
+- Quantitative engineering:
+Monte Carlo simulation, exposure modeling (EE/PFE/CVA), stochastic scenario generation, and risk-factor modeling for pricing and analytics workflows.
 
-- 4 years of hands-on experience in data engineering where she cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
+- Distributed backend systems:
+Python microservices, REST APIs, service-oriented architecture, Docker/Kubernetes, high-throughput processing, cloud compute, and event-driven system design.
 
-- Exceptional skills demonstrated in source control and continuous integration tools such as Git, Travis CI, and Circle CI. 
+- AI & applied research:
+Experience with NLP/LLM pipelines, data preprocessing, model fine-tuning, and research-grade experimentation across projects in political networks, cognitive neuroscience, and computational linguistics.
 
-- Exceptional skills demonstrated in DevOps tools such as AWS and Google Cloud Platform.
+- Machine learning & statistics:
+Hands-on experience with TensorFlow, PyTorch, scikit-learn, and data modeling techniques applied to structured, time-series, and unstructured datasets.
+
+- Data engineering & automation:
+ETL pipelines, market/investment data processing, cloud-based automation (AWS/GCP), and production-ready data workflows for analytical systems.
+
+- Full-stack & systems fundamentals:
+Background in Java, C++, JavaScript/React, Node.js, and multi-platform development, supporting strong systems intuition and production resilience.
+
+I focus on building reliable and scalable quantitative infrastructure that integrates modeling, AI capabilities, and high-performance engineering to support robust decision-making in trading, risk, and investment environments.
 
 ## Experience
 
-**Software Developer Full Time, BMO, Mar 2022 - Present.**
+**Senior Software Developer Full Time, Royal Bank of Canada Capital Market, Dec 2025 - Present.**
+  
+- Based in the Global Head Quarter in the Toronto, Quantitative Technology Services Team, supporting the Counterparty Risk Trading (XVA) desk.
+
+
+**Research Asstant Part Time, Ivey Business School Western University, May 2024 - Present.**
+
+- Remote working.
+
+- LLM, ETL, Political Network Analysis Project.
+
+**Senior Technical Analyst Investment Full Time, Univeristy Pension Plan Ontario, Oct 2025 - Nov 2025.**
+  
+- Cloud & ETL automation for investment systems, with focus on future AI integration.
+
+
+**Software Developer Full Time, Bank of Montreal, Mar 2022 - Oct 2025.**
   
 - Based in the Global Head Quarter in the Toronto, Technology and Operations of Commercial Bank, Treasury and Payment Solutions Team. (TPS)
   
@@ -43,109 +70,39 @@ Xinyue is a passionate, efficient, and creative individual that loves problem-so
 
 - Remote working.
 
-- Natural language processing (NLP) project in cooperation with the Chinese Academy of Sciences at the start point, Zhejiang Province academic funding, a provincial-level scientific research project.
+- Natural language processing (NLP) project.
 
-- Content: NLP, LSTM, RNNs.
-
-- Converted text data to word vector by LSTM, Extract feature vector of image data by CNN.
+- Content: NLP, LSTM, RNNs. Converted text data to word vector by LSTM, Extract feature vector of image data by CNN.
 
 **Research Asstant Part Time, Carnegie Mellon University, May 2021 - Aug 2021.**
 
 - Remote working.
+  
+- Natural language processing (NLP) project.
 
-- Focus on GitHub code review comments analysis.
+**Software Developer Intern Full Time, NetEase, Apr 2021 - July 2021**
 
-- Applying Machine Learning such as Semi-Supervised Learning combine with NLP.
-
-- Using snorkel library by Stanford to develop the comment analyst project.
-
-**Software Developer Intern Full Time, NetEase, Mar 2021 - July 2021**
-
-- Based in the Research Institute, focus on the IoT(Internet of Things).
-
-- Front-end development of Web and Mobile Application within Cloud Computing, Big Data, Industry Internet fields.
-
-- Experienced in software development specifically h5 small app and web application using
-ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack, babel.
+- Based in the Global Head Quarter in the Hangzhou, Research Institute, focus on the IoT(Internet of Things), Cloud Computing, Big Data, Industry Internet.
+  
+- JavaScript, C++, Python, ReactJS, NodeJS, Wechat small app, ANTD Design UI Library, Figma.
 
 **Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Apr 2021**
 
-- Developed on SCADACOM System (supervisory control and data acquisition) with backend C++ and frontend JavaScript.
-
-- Implemented business logics and functions that have been directly applied in multiple metro lines, water/power/gas pipelines such as Vancouver Skytrain and New York JFK airport transportation line.
-
-- Fixed bugs and writing documents for the system, testing using the Python script.
-
-- OOP development experience (C++ and JavaScript) with an understanding of unit testing & Test-Driven Development (TDD).
-
-- Experienced with machine learning software and tools (Tensorflow, PyTorch).
-
-- Experienced in software development using python, bash; Qt 4+; React, jQuery, NodeJS; Redis / Redis Streams; Docker; MongoDB, MySQL; CentOS.
+- Based in the Global Head Quarter in the Edmonton.
+  
+- SCADA system, C++, JavaScript, Qt, React, jQuery, NodeJS, Redis, Docker, MongoDB, MySQL, CentOS.
 
 **Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Mar 2021.**
 
-- As part of the Cognitive Neuroscience Lab, Neuroscience, and Mental Health Institute. Researched topics related to voice classifications, audio loss, and cognitive science. Supervised by Dr. Bill Hodgetts, Dr. Jacqueline Cummine, and Ph.D. student Kulpreet Cheema.
-
-- Developed application of Machine Learning in audiology. Used the CNN network to train a voice classification model with TensorFlow and Keras.
-
+- Cognitive Neuroscience Lab, Neuroscience, and Mental Health Institute.
+  
+- Researched topics related to voice classifications, audio loss, and cognitive science.
+  
 - Wrote a paper about voice classification in the audiology field and the paper got accepted by Applied Sciences https://www.mdpi.com/2076-3417/11/12/5659.
-
-- Designed and developed a literacy training web application using React, Redux, and jQuery.
-
-- Implemented the google login authentication system with Firebase at the first time. Due to the user experience, transferred to the backend to use the Node.js, MongoDB, and AWS.
-
-- Current Architecture: Language using JavaScript, HTML, and CSS; Frontend using React.js, Redux.js, Material-UI; Backend using Node.js, Express.js, Passport.js, Mongoose.js; Database using MongoDB, AWS S3; Dev tools using Postman, Google-OAuth2.0, Herokuapp.
-
-**Software Developer & Machine Learning Specialist Intern, Revere Technologies, Oct 2019 - May 2020.**
-
-- Designed prototypes using Figma, focus on user-friendly UI design and Front-end development using ReactJS, Material UI library.
-
-- Cooperated with the Back-end and the Database team using Node.js and Firebase.
-
-- Cleaned around 300K data entries using Google BigQuery.
-
-- Improved the accuracy of a company-wide object recognition model using YOLOv2.
-
-- Participated in making the house price prediction model using Tensor-flow.
-
-- Used docker and its containers to deploy the model quickly.
-
 
 **Research Assistant - Data Engineer Part Time, Business School UAlberta, Oct 2019 - Dec 2019.**
 
-- Analyzing the branding and marketing strategies of big companies by analyzing their twitter feeds. 
-
-- Worked with the Department of Marketing to develop a web crawler to scrape the tweets and handle various media formats of big companies such as Starbucks using the Python and Twitter API.
-
-- Supervised by Professor Sarah Moore and PhD student K.B Boo.
-
-
-**Summer Student, the Startup Edmonton, May 2019 - Sep 2019.**
-
-- Attended weekly business-oriented workshops discussing on how to build a company and obtain customer growth. 
-
-- Applied the business model canvas, customer validations, and defined the minimum viable product for a startup company. 
-
-- Presented the startup business plan and model such as the MVP to the startup Edmonton. Received great feedbacks.
-
-- Presented a startup project to the University of Alberta's Entrepreneur's Centre.
-
-- Link to the startup company and open-source code: https://github.com/xiangxinyue/Decision_Course
-
-
-**Software Developer Part Time, Decision Startup Team, May 2019 - Sep 2019.**
-
-- Founded and led a team of 7 including engineers and designers. 
-
-- Demonstrated project management skills by defining the minimum viable product, timelines, business model, and allocating tasks.
-
-- Demoed and presented the project at various conferences obtaining 20+ customers.
-
-- Constructed the foundation of the front-end and back-end codebases using React.js and SQLite. Led the migration to using Firebase.
-
-- Developed a Python-based web crawler to fetch data and implemented data visualization using D3.js.
-
-- Used GitHub to host, Google Drive to manage data and files, and communicated via Slack.
+- Department of Marketing 
 
 
 ## Education
@@ -157,16 +114,12 @@ ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack,
 
 - Focus on Artificial Intelligence and advanced machine learning techniques.
   
-- Relevant coursework: Deep Learning, Unsupervised Learning, Reinforcement Learning Algorithms, Applied Natural Language Processing, Machine Learning Pipelines, Search and Recommender Systems.
-
 - Same program as the in-person one, online delivery.
 
 
 **2023-2025 Master of Computer Science, Georgia Institute of Technology.**
 
 - OMSCS Specialization in Computer Systems.
-  
-- Relevant coursework: High-Performance Computer Architecture, Operating Systems, Software Architecture and Design, Computer Networks, Software Development Process, Full Stack Database Systems, Software Analysis and Testing, Graduate Algorithms.
 
 - Same program as the in-person one, online delivery.
 
@@ -177,18 +130,12 @@ ReactJS, antDesign/antDesign-Mobile, react-router, redux + redux-thunk, webpack,
 
 - A scholar of the Peter Lougheed Leadership College.
 
-- Obtaining a certificate in Interdisciplinary Leadership Studies.
-
-- Relevant Coursework: Database, Algorithms, Digital Image Process, Algorithms of Alpha-Go, Reinforcement Learning, Visual Recognization, 3D Modeling, Software Engineering.
-
 
 **2020 Summer Exchange, Peking University.**
 
 - Due to COVID19, it is changed to online delivery. The program duration is from June 2020 to July 2020.
 
-- Relevant Coursework: China in the Global Economy, Intro to the Chinese Economy, Contemporary China.
-
-- Two academic papers topics were specific in the Chinese Economy. Case study of Shenzhen and Hukou System.
+- Two academic papers and topics were specific in the Chinese Economy. Case study of Shenzhen and Hukou System.
 
 ## Others
 
