@@ -32,7 +32,7 @@ My focus is on building scalable, resilient quantitative infrastructure that int
 
 **Senior Software Developer Full Time, Royal Bank of Canada Capital Market, Dec 2025 - Present.**
   
-- Based in the Global Head Quarter in the Toronto, Quantitative Technology Services Team, supporting the Counterparty Risk Trading (XVA) desk.
+- Based in RBC’s Toronto headquarters as part of the Quantitative Technology Services team, embedded with the Counterparty Risk Trading (XVA) desk to build the next-generation distributed pricing and risk platform.
 
 
 **Research Asstant Part Time, Ivey Business School Western University, May 2024 - Present.**
