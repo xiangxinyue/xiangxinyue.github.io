@@ -41,12 +41,9 @@ My focus is on building scalable, resilient quantitative infrastructure that int
 
 - LLM, ETL, Political Network Analysis Project.
 
-**Senior Technical Analyst Investment Full Time, Univeristy Pension Plan Ontario, Oct 2025 - Nov 2025.**
-  
-- Cloud & ETL automation for investment systems, with focus on future AI integration.
+**Senior Technical Analyst Investment Full Time, Univeristy Pension Plan Ontario, Nov 2025.**
 
-
-**Software Developer Full Time, Bank of Montreal, Mar 2022 - Oct 2025.**
+**Software Developer Full Time, Bank of Montreal, Mar 2022 - Nov 2025.**
   
 - Based in the Global Head Quarter in the Toronto, Technology and Operations of Commercial Bank, Treasury and Payment Solutions Team. (TPS)
   
