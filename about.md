@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a senior software developer specializing in quantitative technology, with a strong focus on large-scale engineering, distributed pricing systems, and data-intensive computation. My work sits at the intersection of front-office engineering and quantitative workflows, supporting traders and quants through high-performance infrastructure and analytical tooling.
+I am a senior quantitative developer specializing in quantitative technology, with a strong focus on large-scale engineering, distributed pricing systems, and data-intensive computation. My work sits at the intersection of front-office engineering and quantitative workflows, supporting traders and quants through high-performance infrastructure and analytical tooling.
 
 Core strengths include:
 - Quantitative technology & analytics integration:
@@ -30,16 +30,20 @@ My focus is on building scalable, resilient quantitative infrastructure that int
 
 ## Experience
 
-**Senior Software Developer Full Time, Royal Bank of Canada Capital Market, Dec 2025 - Present.**
+**Senior Quantitative Developer Full Time, Royal Bank of Canada Capital Market, Dec 2025 - Present.**
   
 - Based in RBC’s Toronto headquarters as part of the Quantitative Technology Services team, embedded with the Counterparty Risk Trading (XVA) desk to build the next-generation distributed pricing and risk platform.
-
+  
+- Core Technical Expertise: Python, C++, High Performance Computing, Monte Carlo Simulation, Distributed Systems, Microservices, Cloud-Native Infrastructure.
 
 **Research Asstant Part Time, Ivey Business School Western University, May 2024 - Present.**
 
 - Remote working.
-
-- LLM, ETL, Political Network Analysis Project.
+  
+- Political Network Analysis Project.
+  
+- Python, LLMs (OpenAI API), Prompt Engineering, RAG Pipelines, NLP, Web Scraping, Network
+Analysis, MongoDB, Jenkins.
 
 **Senior Technical Analyst Investment Full Time, Univeristy Pension Plan Ontario, Nov 2025.**
 
@@ -59,9 +63,9 @@ My focus is on building scalable, resilient quantitative infrastructure that int
   
 - Multiple times Spotlight Award Winner, Spotlight Awards are given in recognition of outstanding work effort and exemplifying the Being BMO brand on a daily basis.
   
-- Java/ NodeJS/ AngularJS/ AWS/ Microservices/ Cloud Computing Migration/ Messaging/ Realtime Payment.
+- Core Technical Expertise: Java, Node.js, AngularJS, AWS, Python, Distributed Systems, Microservices, Cloud Computing Migration, Event-Driven Architecture, Messaging Middleware, High-Throughput Payment Processing, Realtime Payment.
   
-- Key Projects: Fraud/AML/ERE Adaption, Bank of the West Acquisition, TIBCO exit, ISO 20022, BMO's Cloud-Based Payment System. (Could Migration)
+- Key Projects: Bank of the West Acquisition, Fraud/AML Adaption, ISO 20022 Migration, BMO's Cloud-Based Payment System(AWS Migration).
 
 **Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
 
@@ -94,12 +98,34 @@ My focus is on building scalable, resilient quantitative infrastructure that int
 - Cognitive Neuroscience Lab, Neuroscience, and Mental Health Institute.
   
 - Researched topics related to voice classifications, audio loss, and cognitive science.
+
+- Python, Machine Learning, AI, ReactJS, NodeJS, AWS, MongoDB.
   
 - Wrote a paper about voice classification in the audiology field and the paper got accepted by Applied Sciences https://www.mdpi.com/2076-3417/11/12/5659.
 
+**Software Automation Engineer Intern Full Time, HLH LLP Chartered Professional Accountants, Jun 2020 - Aug 2020**
+
+- 5000 Dollars Scholarship funded by Peter Lougheed Leadership College at University of Alberta.
+  
+- Software Robotic Automation Processing (RPA), UI Path, Python, Windows UI Control.
+
+**Data Engineer Intern Full Time, Revere, Jan 2020 - Jun 2020**
+
+- Object recognition model and house price prediction model.
+  
+- ReactJS, NodeJS, Python, Google BigQuery, SQL, Machine Learning, Docker.
+
 **Research Assistant - Data Engineer Part Time, Business School UAlberta, Oct 2019 - Dec 2019.**
 
-- Department of Marketing 
+- Department of Marketing, Top Companies Market Research Project.
+  
+- Python, Web Crawler, SQL.
+
+**Founding Engineer, Decision Startup Team, May 2019 - Sep 2019**
+
+- Founded and led a team of 7 engineers and designers.
+  
+- React.js, EJS, SQL, MongoDB, Python.
 
 
 ## Education
