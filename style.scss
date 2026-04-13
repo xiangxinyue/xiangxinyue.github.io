@@ -64,7 +64,7 @@ img {
 }
 
 .container {
-  width: min(var(--container), calc(100% - 32px));
+  width: min(var(--container), 80vw);
   margin: 0 auto;
 }
 
