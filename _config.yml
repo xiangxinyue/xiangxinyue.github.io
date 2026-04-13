@@ -6,7 +6,7 @@
 name: Xinyue Xiang
 
 # Short bio or description (displayed in the header)
-description: Senior Software Developer | MSCS Georgia Tech  | MADS UMichigan | BSCS UAlberta
+description: Quantitative developer building distributed systems, risk infrastructure, and research-grade AI tools.
 
 #
 # Flags below are optional
@@ -67,7 +67,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
@@ -78,3 +78,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor

@@ -1,170 +1,442 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about/
+eyebrow: Experience & Education
+intro: A direct view of my professional and academic background, closely aligned with the way I present my roles and programs on LinkedIn.
 ---
 
-I am a senior quantitative developer specializing in quantitative technology, with a strong focus on large-scale engineering, distributed pricing systems, and data-intensive computation. My work sits at the intersection of front-office engineering and quantitative workflows, supporting traders and quants through high-performance infrastructure and analytical tooling.
+<h2>Experience</h2>
 
-Core strengths include:
-- Quantitative technology & analytics integration:
-Experience implementing and scaling pricing workflows, scenario-based analytics, and risk-driven computation pipelines. Work closely with quantitative teams to translate models and analytics into reliable, production-grade services used across trading and risk platforms.
+<div class="experience-list">
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/company/rbc-capital-markets" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/rbc.png" alt="RBC Capital Markets logo" />
+        </a>
+        <div>
+          <h3>Senior Quantitative Developer</h3>
+          <p class="experience-company">RBC Capital Markets · Permanent Full-time</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Dec 2025 - Present · 5 mos</p>
+        <p>Toronto, Ontario, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Based in RBC’s Toronto headquarters as part of the Quantitative Technology Services Team (QTS), embedded with the Counterparty Risk Trading (XVA) desk to build the next-generation distributed pricing and risk platform.</li>
+      <li>Core Technical Expertise: Python, C++, High Performance Computing, Monte Carlo Simulation, Distributed Systems, Microservices, Cloud-Native Infrastructure.</li>
+    </ul>
+  </article>
 
-- Distributed backend systems:
-Python microservices, REST APIs, service-oriented architecture, Docker/Kubernetes, high-throughput processing, cloud compute, and event-driven system design.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/school/ivey-business-school/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/ivey_logo.png" alt="Ivey Business School logo" />
+        </a>
+        <div>
+          <h3>Research Assistant</h3>
+          <p class="experience-company">Ivey Business School at Western University · On-Call</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>May 2024 - Present · 2 yrs</p>
+        <p>Toronto, Ontario, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Remote.</li>
+      <li>Political Network Analysis Project.</li>
+      <li>Python, LLMs (OpenAI API), Prompt Engineering, RAG Pipelines, NLP, Web Scraping, Network Analysis, MongoDB, Jenkins.</li>
+    </ul>
+  </article>
 
-- AI & applied research:
-Experience with NLP/LLM pipelines, data preprocessing, model fine-tuning, and research-grade experimentation across projects in political networks, cognitive neuroscience, and computational linguistics.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://ca.linkedin.com/company/university-pension-plan-ontario" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/upp.png" alt="University Pension Plan Ontario logo" />
+        </a>
+        <div>
+          <h3>Senior Technical Analyst, Investment</h3>
+          <p class="experience-company">University Pension Plan Ontario · Permanent Full-time</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Nov 2025 · 1 mo</p>
+        <p>Toronto, Ontario, Canada</p>
+      </div>
+    </div>
+  </article>
 
-- Machine learning & statistics:
-Hands-on experience with TensorFlow, PyTorch, scikit-learn, and data modeling techniques applied to structured, time-series, and unstructured datasets.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/company/bank-of-montreal" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/bmo.png" alt="BMO logo" />
+        </a>
+        <div>
+          <h3>Software Developer</h3>
+          <p class="experience-company">BMO · Permanent Full-time</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Mar 2022 - Nov 2025 · 3 yrs 9 mos</p>
+        <p>Toronto, Ontario, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Based in BMO’s Toronto headquarters, Treasury and Payment Solutions Team (TPS).</li>
+      <li>Named one of ten BMO's Fall 2023 and Winter 2024 New Grad Influencers.</li>
+      <li>Employee Giving Ambassador for BMO 2024.</li>
+      <li>AWS Winner Team at the BMO Destination Digital Innovation Hackathon 2022.</li>
+      <li>Salesforce Winner Team at the BMO Destination Digital Innovation Hackathon 2024.</li>
+      <li>Multiple times Spotlight Award Winner, Spotlight Awards are given in recognition of outstanding work effort and exemplifying the Being BMO brand on a daily basis.</li>
+      <li>Core Technical Expertise: Java, Node.js, AngularJS, AWS, Python, Distributed Systems, Microservices, Cloud Computing Migration, Event-Driven Architecture, Messaging Middleware, High-Throughput Payment Processing, Realtime Payment.</li>
+      <li>Key Projects: Bank of the West Acquisition, Fraud/AML Adaption, ISO 20022 Migration, BMO's Cloud-Based Payment System (AWS Migration).</li>
+    </ul>
+  </article>
 
-- Data engineering & automation:
-ETL pipelines, market/investment data processing, cloud-based automation (AWS/GCP), and production-ready data workflows for analytical systems.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/school/zhejiang-university/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/zju_logo.png" alt="Zhejiang University logo" />
+        </a>
+        <div>
+          <h3>Research Assistant</h3>
+          <p class="experience-company">Zhejiang University · On-Call</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Sep 2021 - Feb 2022 · 6 mos</p>
+        <p>Hangzhou, Zhejiang, China</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Remote.</li>
+      <li>Natural Language Processing (NLP) Project.</li>
+      <li>Python, NLP, LSTM, RNN.</li>
+    </ul>
+  </article>
 
-- Full-stack & systems fundamentals:
-Background in Java, C++, JavaScript/React, Node.js, and multi-platform development, supporting strong systems intuition and production resilience.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/school/carnegie-mellon-university/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/CMU_logo.jpg" alt="Carnegie Mellon University logo" />
+        </a>
+        <div>
+          <h3>Research Assistant</h3>
+          <p class="experience-company">Carnegie Mellon University · On-Call</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>May 2021 - Jul 2021 · 3 mos</p>
+        <p>Pittsburgh, Pennsylvania, United States</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Remote.</li>
+      <li>Natural Language Processing (NLP) Project.</li>
+      <li>Python, Semi-Supervised Learning, NLP, snorkel library.</li>
+    </ul>
+  </article>
 
-My focus is on building scalable, resilient quantitative infrastructure that integrates engineering, analytics, and AI capabilities to support front-office decision-making in trading, risk, and investment environments.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/company/netease" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/NetEase_logo.jpg" alt="NetEase logo" />
+        </a>
+        <div>
+          <h3>Software Developer Intern</h3>
+          <p class="experience-company">NetEase · Internship</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Apr 2021 - Jul 2021 · 4 mos</p>
+        <p>Hangzhou, Zhejiang, China</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Based in the Global Head Quarter in Hangzhou, Research Institute, with focus on the IoT (Internet of Things), Cloud Computing, Big Data, and Industry Internet.</li>
+      <li>JavaScript, C++, Python, ReactJS, NodeJS, Wechat Small App, ANTD Design UI Library, Figma.</li>
+    </ul>
+  </article>
 
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://ca.linkedin.com/company/willowglensystems" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/willowglen.png" alt="Willowglen Systems logo" />
+        </a>
+        <div>
+          <h3>Software Developer Coop</h3>
+          <p class="experience-company">Willowglen Systems · Internship</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Sep 2020 - Apr 2021 · 8 mos</p>
+        <p>Edmonton, Alberta, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Based in the Global Head Quarter in Edmonton.</li>
+      <li>SCADA system, C++, JavaScript, Qt, ExtJS, jQuery, NodeJS, Redis, Docker, MongoDB, MySQL, CentOS.</li>
+    </ul>
+  </article>
 
-## Experience
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://ca.linkedin.com/school/university-of-alberta/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/ualberta.png" alt="University of Alberta logo" />
+        </a>
+        <div>
+          <h3>Research Assistant</h3>
+          <p class="experience-company">University of Alberta · On-Call</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Nov 2019 - Apr 2021 · 1 yr 6 mos</p>
+        <p>Edmonton, Alberta, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Cognitive Neuroscience Lab, Neuroscience, and Mental Health Institute.</li>
+      <li>Researched topics related to voice classifications, audio loss, and cognitive science.</li>
+      <li>Python, Machine Learning, AI, ReactJS, NodeJS, AWS, MongoDB.</li>
+      <li>Publication: <a href="https://www.mdpi.com/2076-3417/11/12/5659" target="_blank" rel="noreferrer"><em>On a Vector towards a Novel Hearing Aid Feature: What Can We Learn from Modern Family, Voice Classification and Deep Learning Algorithms.</em></a></li>
+    </ul>
+  </article>
 
-**Senior Quantitative Developer Full Time, Royal Bank of Canada Capital Market, Dec 2025 - Present.**
-  
-- Based in RBC’s Toronto headquarters as part of the Quantitative Technology Services team, embedded with the Counterparty Risk Trading (XVA) desk to build the next-generation distributed pricing and risk platform.
-  
-- Core Technical Expertise: Python, C++, High Performance Computing, Monte Carlo Simulation, Distributed Systems, Microservices, Cloud-Native Infrastructure.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://ca.linkedin.com/company/hlhllp" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/hlh.png" alt="HLH LLP logo" />
+        </a>
+        <div>
+          <h3>Software Automation Engineer Intern</h3>
+          <p class="experience-company">HLH LLP Chartered Professional Accountants · Internship</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Jun 2020 - Aug 2020 · 3 mos</p>
+        <p>Edmonton, Alberta, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>5000 Dollars Scholarship funded by Peter Lougheed Leadership College at University of Alberta.</li>
+      <li>Software Robotic Automation Processing, UI Path, Forward Engineering, Python, Windows UI Control.</li>
+    </ul>
+  </article>
 
-**Research Asstant Part Time, Ivey Business School Western University, May 2024 - Present.**
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://ca.linkedin.com/company/reverehome" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/revere_logo.png" alt="Revere logo" />
+        </a>
+        <div>
+          <h3>Data Engineer Intern</h3>
+          <p class="experience-company">Revere · Internship</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Jan 2020 - Jun 2020 · 6 mos</p>
+        <p>Edmonton, Alberta, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Object recognition model and house price prediction model.</li>
+      <li>ReactJS, NodeJS, Python, Google BigQuery, SQL, Machine Learning, Docker.</li>
+    </ul>
+  </article>
 
-- Remote working.
-  
-- Political Network Analysis Project.
-  
-- Python, LLMs (OpenAI API), Prompt Engineering, RAG Pipelines, NLP, Web Scraping, Network
-Analysis, MongoDB, Jenkins.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://ca.linkedin.com/school/ualbertabiz/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/ualberta.png" alt="University of Alberta logo" />
+        </a>
+        <div>
+          <h3>Research Assistant</h3>
+          <p class="experience-company">Alberta School of Business, University of Alberta · On-Call</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Sep 2019 - Nov 2019 · 3 mos</p>
+        <p>Edmonton, Alberta, Canada</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Department of Marketing, Top Companies Market Research Project.</li>
+      <li>Python, Web Clawer, SQL.</li>
+    </ul>
+  </article>
 
-**Senior Technical Analyst Investment Full Time, Univeristy Pension Plan Ontario, Nov 2025.**
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <div class="experience-mark">DS</div>
+        <div>
+          <h3>Founding Engineer</h3>
+          <p class="experience-company">Decision Startup Team · Freelance</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>May 2019 - Sep 2019 · 5 mos</p>
+        <p>Edmonton, Alberta, Canada · Hybrid</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>As a summer student at Startup Edmonton.</li>
+      <li>Founded and led a team of 7 including engineers and designers.</li>
+      <li>Delivered MVP in 4 months.</li>
+      <li>React.js, EJS, SQL, MongoDB, Python.</li>
+    </ul>
+  </article>
 
-**Software Developer Full Time, Bank of Montreal, Mar 2022 - Nov 2025.**
-  
-- Based in the Global Head Quarter in the Toronto, Technology and Operations of Commercial Bank, Treasury and Payment Solutions Team. (TPS)
-  
-- Named one of ten BMO's Fall 2023 and Winter 2024 New Grad Influencers.
-  
-- Early Talent Experience Program Alumni.
-  
-- Employee Giving Ambassador for BMO 2024.
-  
-- AWS Winner Team at the BMO Destination Digital Innovation Hackathon 2022.
-  
-- Salesforce Winner Team at the BMO Destination Digital Innovation Hackathon 2024.
-  
-- Multiple times Spotlight Award Winner, Spotlight Awards are given in recognition of outstanding work effort and exemplifying the Being BMO brand on a daily basis.
-  
-- Core Technical Expertise: Java, Node.js, AngularJS, AWS, Python, Distributed Systems, Microservices, Cloud Computing Migration, Event-Driven Architecture, Messaging Middleware, High-Throughput Payment Processing, Realtime Payment.
-  
-- Key Projects: Bank of the West Acquisition, Fraud/AML Adaption, ISO 20022 Migration, BMO's Cloud-Based Payment System(AWS Migration).
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/company/buynowelectronicinformationco.ltd." target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/buynow_logo.jpeg" alt="BUYNOW logo" />
+        </a>
+        <div>
+          <h3>Information Technology Support</h3>
+          <p class="experience-company">BUYNOW Electronic Information Co., Ltd · Internship</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Jun 2017 - Sep 2017 · 4 mos</p>
+        <p>Hangzhou, Zhejiang, China · On-site</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Hands-on technical support experience at major retailer.</li>
+    </ul>
+  </article>
 
-**Research Asstant Part Time, Zhejiang University, Aug 2021 - Feb 2022.**
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/company/new-oriental-education-%26-technology-group-china" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/xdf_logo.png" alt="New Oriental logo" />
+        </a>
+        <div>
+          <h3>Teaching Assistant</h3>
+          <p class="experience-company">New Oriental Education &amp; Technology Group · Internship</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>Jun 2016 - Dec 2016 · 7 mos</p>
+        <p>Hangzhou, Zhejiang, China · On-site</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Supported daily teaching operations.</li>
+      <li>Promoted to Lead Teaching Assistant after 2 months.</li>
+    </ul>
+  </article>
+</div>
 
-- Remote working.
+<h2>Education</h2>
 
-- Natural language processing (NLP) project.
+<div class="experience-list">
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/school/university-of-michigan/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/umich_logo.png" alt="University of Michigan logo" />
+        </a>
+        <div>
+          <h3>University of Michigan</h3>
+          <p class="experience-company">Master of Science - MS, Data Science</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>2023 - 2026</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>MADS Scholarship, reflecting the University of Michigan School of Information's belief that I will make valuable contributions to the school and the information field.</li>
+      <li>Focus on artificial intelligence and advanced machine learning techniques.</li>
+      <li>Same program as the in-person one, online delivery, part-time.</li>
+    </ul>
+  </article>
 
-- Content: NLP, LSTM, RNNs. Converted text data to word vector by LSTM, Extract feature vector of image data by CNN.
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/school/georgia-institute-of-technology/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/gt_logo.png" alt="Georgia Institute of Technology logo" />
+        </a>
+        <div>
+          <h3>Georgia Institute of Technology</h3>
+          <p class="experience-company">Master of Science - MS, Computer Science</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>2023 - 2025</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>OMSCS Specialization in Computer Systems.</li>
+      <li>Same program as the in-person one, online delivery, part-time.</li>
+      <li>Granted Degree on Dec, 2025.</li>
+    </ul>
+  </article>
 
-**Research Asstant Part Time, Carnegie Mellon University, May 2021 - Aug 2021.**
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://ca.linkedin.com/school/university-of-alberta/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/ualberta.png" alt="University of Alberta logo" />
+        </a>
+        <div>
+          <h3>University of Alberta</h3>
+          <p class="experience-company">Bachelor of Science - BS, Computer Science</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>2017 - 2022</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Science Internship Program (Coop).</li>
+      <li>A scholar of the Peter Lougheed Leadership College.</li>
+      <li>Focus on artificial intelligence.</li>
+      <li>Granted Degree on June, 2022.</li>
+      <li>Featured in: <em>Peter Lougheed Leadership College welcomes pioneer class - The Gateway</em>.</li>
+      <li>Featured in: <em>Using the Power of Technology and Diversity to Lead in the COVID-19 Crisis</em>.</li>
+    </ul>
+  </article>
 
-- Remote working.
-  
-- Natural language processing (NLP) project.
-
-**Software Developer Intern Full Time, NetEase, Apr 2021 - July 2021**
-
-- Based in the Global Head Quarter in the Hangzhou, Research Institute, focus on the IoT(Internet of Things), Cloud Computing, Big Data, Industry Internet.
-  
-- JavaScript, C++, Python, ReactJS, NodeJS, Wechat small app, ANTD Design UI Library, Figma.
-
-**Software Developer Coop Full Time, Willowglen Systems, Sep 2020 - Apr 2021**
-
-- Based in the Global Head Quarter in the Edmonton.
-  
-- SCADA system, C++, JavaScript, Qt, React, jQuery, NodeJS, Redis, Docker, MongoDB, MySQL, CentOS.
-
-**Research Asstant - Software Developer & Machine Learning Enginner Part Time, Faculty of Medicine & Dentistry UAlberta, Dec 2019 - Mar 2021.**
-
-- Cognitive Neuroscience Lab, Neuroscience, and Mental Health Institute.
-  
-- Researched topics related to voice classifications, audio loss, and cognitive science.
-
-- Python, Machine Learning, AI, ReactJS, NodeJS, AWS, MongoDB.
-  
-- Wrote a paper about voice classification in the audiology field and the paper got accepted by Applied Sciences https://www.mdpi.com/2076-3417/11/12/5659.
-
-**Software Automation Engineer Intern Full Time, HLH LLP Chartered Professional Accountants, Jun 2020 - Aug 2020**
-
-- 5000 Dollars Scholarship funded by Peter Lougheed Leadership College at University of Alberta.
-  
-- Software Robotic Automation Processing (RPA), UI Path, Python, Windows UI Control.
-
-**Data Engineer Intern Full Time, Revere, Jan 2020 - Jun 2020**
-
-- Object recognition model and house price prediction model.
-  
-- ReactJS, NodeJS, Python, Google BigQuery, SQL, Machine Learning, Docker.
-
-**Research Assistant - Data Engineer Part Time, Business School UAlberta, Oct 2019 - Dec 2019.**
-
-- Department of Marketing, Top Companies Market Research Project.
-  
-- Python, Web Crawler, SQL.
-
-**Founding Engineer, Decision Startup Team, May 2019 - Sep 2019**
-
-- Founded and led a team of 7 engineers and designers.
-  
-- React.js, EJS, SQL, MongoDB, Python.
-
-
-## Education
-
-
-**2023-2026 Master of Applied Data Science, University of Michigan.**
-
-- MADS Scholarship, this scholarship offer is a reflection of many accomplishments and our belief that the candidate will make valuable contributions to the School, and the vastly changing professions in the information field.
-
-- Focus on Artificial Intelligence and advanced machine learning techniques.
-  
-- Same program as the in-person one, online delivery.
-
-
-**2023-2025 Master of Computer Science, Georgia Institute of Technology.**
-
-- OMSCS Specialization in Computer Systems.
-
-- Same program as the in-person one, online delivery.
-
-
-**2017-2021 BSc of Computer Science, University of Alberta.**
-
-- Science Internship Program(Coop).
-
-- A scholar of the Peter Lougheed Leadership College.
-
-
-**2020 Summer Exchange, Peking University.**
-
-- Due to COVID19, it is changed to online delivery. The program duration is from June 2020 to July 2020.
-
-- Two academic papers and topics were specific in the Chinese Economy. Case study of Shenzhen and Hukou System.
-
-## Others
-
-For more information about my experience you can check out my Linkedin, click the icon at the buttom.
-
-
-
-    
-
+  <article class="experience-card">
+    <div class="experience-head">
+      <div class="experience-brand">
+        <a class="experience-logo-link" href="https://www.linkedin.com/school/peking-university/" target="_blank" rel="noreferrer">
+          <img class="experience-logo" src="{{ site.baseurl }}/images/logos/pku_logo.png" alt="Peking University logo" />
+        </a>
+        <div>
+          <h3>Peking University</h3>
+          <p class="experience-company">Summer School</p>
+        </div>
+      </div>
+      <div class="experience-meta">
+        <p>2020 - 2020</p>
+      </div>
+    </div>
+    <ul class="experience-points">
+      <li>Due to COVID19, the program was changed to online delivery from June 2020 to July 2020.</li>
+      <li>Two academic paper topics focused on the Chinese economy, including case studies of Shenzhen and the Hukou system.</li>
+      <li>Certificate completed and archived in my personal records.</li>
+    </ul>
+  </article>
+</div>

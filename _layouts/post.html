@@ -2,14 +2,17 @@
 layout: blog
 ---
 
-<article class="post">
- <div class="space-extra-small">
- </div>
+<article class="post-article">
+  <a class="back-link" href="{{ site.baseurl }}/writing/">All writing</a>
+  <header class="post-header">
+    <p class="eyebrow">Writing</p>
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%B %e, %Y" }}{% if page.author %} · {{ page.author }}{% endif %}</p>
+  </header>
 
-  <div class="entry">
+  <div class="prose">
     {{ content }}
   </div>
 
   {% include disqus.html %}
 </article>
-

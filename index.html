@@ -1,18 +1,189 @@
 ---
 layout: default
+title: Home
+body_class: home-page
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Toronto · AI Systems · Quant Infrastructure</p>
+    <h1 class="hero-title">Where AI, quantitative engineering, and distributed systems meet.</h1>
+    <p class="hero-text">
+      I am Xinyue Xiang, a quantitative developer working across AI systems, quantitative infrastructure,
+      distributed platforms, and data-intensive engineering. My work combines front-office rigor, applied
+      machine learning, and production-grade system design.
+    </p>
+    <div class="hero-actions">
+      <a class="button-primary" href="{{ site.baseurl }}/projects/">View projects</a>
+      <a class="button-secondary" href="{{ site.baseurl }}/about/">View experience</a>
+    </div>
+    <ul class="hero-facts">
+      <li>Senior Quantitative Developer at RBC Capital Markets</li>
+      <li>Research collaborations spanning Ivey, CMU, Zhejiang, and UAlberta</li>
+      <li>Background in Python, C++, Java, cloud systems, and applied ML</li>
+    </ul>
+  </div>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <aside class="profile-card">
+    <img src="{{ site.baseurl }}/images/Xinyue%20Xiang%20Photo.JPG" alt="Portrait of {{ site.name }}" class="profile-image" />
+    <p class="profile-current">Currently</p>
+    <p class="profile-role">Senior Quantitative Developer</p>
+    <p class="profile-company">RBC Capital Markets · Quantitative Technology Services</p>
+    <div class="tag-row">
+      <span>Python</span>
+      <span>C++</span>
+      <span>OpenAI API</span>
+      <span>Quant infra</span>
+      <span>Distributed systems</span>
+      <span>RAG</span>
+      <span>Java</span>
+      <span>AWS</span>
+      <span>Kubernetes</span>
+      <span>Microservices</span>
+      <span>Machine learning</span>
+    </div>
+  </aside>
+</section>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<section class="section-block">
+  <div class="section-heading">
+    <p class="eyebrow">Focus</p>
+    <h2>Engineering depth with research range.</h2>
+    <p>
+      I work at the boundary of quantitative systems, applied research, and platform delivery.
+      The common thread is building tools that are rigorous enough for complex environments and clear enough for people to trust.
+    </p>
+  </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
+  <div class="feature-grid">
+    <article class="feature-card">
+      <p class="card-label">01</p>
+      <h3>Quantitative engineering</h3>
+      <p>Pricing and risk systems, HPC workloads, scenario analytics, and production services designed for trading environments.</p>
     </article>
-  {% endfor %}
-</div>
+    <article class="feature-card">
+      <p class="card-label">02</p>
+      <h3>Applied AI and research</h3>
+      <p>LLM workflows, RAG pipelines, NLP, and research tooling built for real questions instead of demo-only prototypes.</p>
+    </article>
+    <article class="feature-card">
+      <p class="card-label">03</p>
+      <h3>Large-scale product delivery</h3>
+      <p>Enterprise modernization, payment platforms, cloud migration, and developer-minded execution in regulated environments.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section-block">
+  <div class="section-heading">
+    <p class="eyebrow">Skills</p>
+    <h2>Systems, research, and delivery capabilities in one place.</h2>
+  </div>
+
+  <div class="skills-grid">
+    <article class="skills-card">
+      <p class="card-label">Programming &amp; Data Science</p>
+      <div class="skills-list">
+        <span>Python</span>
+        <span>Pandas</span>
+        <span>NumPy</span>
+        <span>Scikit-learn</span>
+        <span>PyTorch</span>
+        <span>TensorFlow</span>
+        <span>SQL</span>
+        <span>Java</span>
+        <span>Machine learning</span>
+        <span>NLP</span>
+        <span>Predictive modeling</span>
+        <span>Reinforcement learning</span>
+        <span>Data visualization</span>
+        <span>Google BigQuery</span>
+      </div>
+    </article>
+    <article class="skills-card">
+      <p class="card-label">AI &amp; LLMs</p>
+      <div class="skills-list">
+        <span>OpenAI API</span>
+        <span>LangChain</span>
+        <span>Prompt engineering</span>
+        <span>RAG</span>
+        <span>LoRA</span>
+        <span>Entity recognition</span>
+        <span>Topic modeling</span>
+      </div>
+    </article>
+    <article class="skills-card">
+      <p class="card-label">Cloud &amp; Infrastructure</p>
+      <div class="skills-list">
+        <span>Docker</span>
+        <span>Kubernetes</span>
+        <span>AWS SageMaker</span>
+        <span>AWS Lambda</span>
+        <span>EC2</span>
+        <span>RDS</span>
+        <span>DynamoDB</span>
+        <span>S3</span>
+        <span>Serverless architectures</span>
+        <span>Microservices</span>
+        <span>Airflow</span>
+        <span>ETL pipelines</span>
+        <span>Messaging middleware</span>
+      </div>
+    </article>
+    <article class="skills-card">
+      <p class="card-label">DevOps &amp; Full Stack</p>
+      <div class="skills-list">
+        <span>Jenkins</span>
+        <span>GitLab CI</span>
+        <span>Travis CI</span>
+        <span>Git</span>
+        <span>Jira</span>
+        <span>Confluence</span>
+        <span>Linux/Unix</span>
+        <span>Agile/Scrum</span>
+        <span>Django</span>
+        <span>Node.js</span>
+        <span>ReactJS</span>
+        <span>AngularJS</span>
+        <span>REST API</span>
+        <span>MongoDB</span>
+        <span>MySQL</span>
+        <span>SQLite</span>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="section-block">
+  <div class="section-heading">
+    <p class="eyebrow">How I Work</p>
+    <h2>The way I keep growing while I build.</h2>
+    <p>
+      The details of my resume live on the About page. What matters more here is how I think and how I keep moving:
+      growth mindset, technical range, serious execution, and a willingness to keep learning in public and in production.
+    </p>
+  </div>
+
+  <div class="feature-grid">
+    <article class="feature-card">
+      <p class="card-label">01</p>
+      <h3>Growth mindset as a default</h3>
+      <p>I care a lot about growth mindset. I try to stay open to new domains, harder systems, better habits, and the kind of feedback that actually raises the bar.</p>
+    </article>
+    <article class="feature-card">
+      <p class="card-label">02</p>
+      <h3>Range with real depth</h3>
+      <p>I like being stretched across quant infrastructure, AI systems, cloud platforms, and research work, but I do not like shallow buzzword range. I want the work to be technically defensible.</p>
+    </article>
+    <article class="feature-card">
+      <p class="card-label">03</p>
+      <h3>Curiosity that becomes execution</h3>
+      <p>I am naturally curious, but I do not want curiosity to stay abstract. The goal is to turn that curiosity into systems, tools, migrations, research outputs, and work that people can rely on.</p>
+    </article>
+    <article class="feature-card">
+      <p class="card-label">04</p>
+      <h3>Long-term compounding</h3>
+      <p>I am drawn to things that compound over time: technical foundations, research habits, platform thinking, and the steady process of becoming better than I was a year ago.</p>
+    </article>
+  </div>
+</section>

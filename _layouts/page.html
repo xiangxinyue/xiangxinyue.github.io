@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<article class="page">
+<article class="page-article">
+  <header class="page-header">
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.intro %}<p class="page-intro">{{ page.intro }}</p>{% endif %}
+  </header>
 
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
+  <div class="{% if page.content_class %}{{ page.content_class }}{% else %}prose{% endif %}">
     {{ content }}
   </div>
 </article>
