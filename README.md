@@ -1,88 +1,53 @@
-# Building a static website with GitHub Pages 
-I am going to write a readme for anyone that people can use GitHub Pages to build their own static websites in a short time.
-This readme will also include the steps to buy a domain name (if you do want to have your own domain name instead of github.io), resolve the domain name, and so on.
+# Xinyue Xiang
 
-# About
-In 2019, I came up with the idea of making my own personal website/tech blog. At that time, I was a second year computer major student who was looking for an internship so this website might help me more on that time. And also it is the time when I really wanted to learn new knowledge.
+Personal website and portfolio for [xiangxinyue.com](https://xiangxinyue.com), built with Jekyll and hosted on GitHub Pages.
 
-# Requirement
-1)A github id is enough at the beginning! 
+## What is in this site
 
-2)If you want to make a better website based on frame you might need to know some basic HTML/CSS/JS.
+- Homepage with positioning, skills, and working style
+- Projects page for public work, research output, and representative professional systems
+- About page with experience and education
+- A hidden `more about me` page reached through the small floating objects
 
-3)Overall, it is Github pages + Jekyll + Ruby + Git + md.
+## Stack
 
-# First Step: Let's Go! Create a Repository
-1)Have your github id and know some Git basics.
+- Jekyll
+- GitHub Pages
+- Sass
+- Markdown + HTML layouts
 
-2)Create a new repository named like xiangxinyue.github.io (name.github.io).
+## Local development
 
-# Second Step: Choose a theme or fork other people's repo
-1)Go to the setting and find the Github Pages.
+Install dependencies:
 
-2)You will see a link like "Your site is published at https://xiangxinyue.github.io/". Click it and you will see your website.
+```bash
+bundle install
+```
 
-# Third Step: Get your machine enviorment prepared
+Run locally:
 
-1)Before you have Jekyll in your machine, you need to have ruby and gem. If you do not have ruby in your machine first install ruby and gem.
+```bash
+bundle exec jekyll serve --host 127.0.0.1 --port 4000
+```
 
-2)Use "$ ruby -v" to check your ruby version or if your machine have ruby. Mac OS already have ruby but you better to get a newest one.
+Open:
 
-3)Use "$ brew install ruby" to download ruby. If you do not have home brew in your machine use the command "$/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```text
+http://127.0.0.1:4000/
+```
 
-4)Use "$ gem install jekyll bundle" to download jekyll. 
+## Deployment
 
-5)You better do the whole things in the Ubuntu, it is better in Mac OS.
+This repository is the GitHub Pages user-site repository:
 
+```text
+xiangxinyue.github.io
+```
 
-# Fourth Step: Revise the website to your style using Jekyll
-1)Another way to open the website is "cd xiangxinyue.github.io" in terminal. -> then "bundle exec jekyll serve". Then you can go through Returned IP address and to look at your website through localhost.
+Pushing to `master` publishes the site through GitHub Pages. A custom domain is configured through `CNAME`.
 
-2)_config.yml : Global configuration file.
+## Notes
 
-3)posts: The file put your blog article.
-
-4)Other file you can see the details inside.
-
-5)Use the local host to see your revision.
-
-
-
-# Fifth Step : Your self define domain name
-1)Buy a domain name.
-
-2)Resolve domain name. After registering your domain name, you need to resolve the domain name to your blog.
-
-3)Management Console → Domain Name and Website (Internet) → Domain Name.
-
-4)Add parsing. Add two A record types separately. A host record is www, which represents the domain name that can resolve www.xiangxinyue.com (I bought it online)
-The other is @, representing xiangxinyue.com.
-
-5)The recorded value is the IP address of our blog, which is the address of the GitHub Pagas server in the United States 151.101.100.133. Because the Github Pages use the CNAME to lead it to your github io.
-
-# Well done!
-If you do want to futuer develop your website, see the jekyll document https://jekyllrb.com/
-
-# Conclusion
-The hardest part is to set the envirment in Mac OS. So I wrote another document about "How to download Jekyll in Mac OS" and will put it in my github. But using Ubuntu is a great choice.
-
-# Development time-line and versions instructions
-This Github Pages is based on Jekyll-Mono.
-
-The first version (Jan 2019 - July 2019) is based on the repo crafted by [Akshay Agarwal](https://github.com/AkshayAgarwal007). Thanks to him!
-
-Will continue update the blog
-
- 
-
-
-
-
-
-
-
-
-
-
-
-  
+- Build artifacts and local dependency directories are ignored through `.gitignore`
+- Logos and images used by the site live in [images](/Users/xinyuexiang/Desktop/xiangxinyue.github.io/images)
+- Main pages live in [index.html](/Users/xinyuexiang/Desktop/xiangxinyue.github.io/index.html), [about.md](/Users/xinyuexiang/Desktop/xiangxinyue.github.io/about.md), [projects.md](/Users/xinyuexiang/Desktop/xiangxinyue.github.io/projects.md), and [more-about-me.md](/Users/xinyuexiang/Desktop/xiangxinyue.github.io/more-about-me.md)
