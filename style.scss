@@ -907,6 +907,16 @@ img {
   border-top: 1px solid var(--line);
 }
 
+.visitor-strip {
+  padding-top: 18px;
+}
+
+.visitor-map {
+  display: flex;
+  justify-content: center;
+  padding: 14px 0 0;
+}
+
 .footer-icons {
   display: flex;
   flex-wrap: wrap;

@@ -189,7 +189,7 @@ intro: A hidden page for the personal details behind the work.
       <li>Jan 15: Saskatoon, 520 km</li>
       <li>Jan 16: Regina, 260 km</li>
       <li>Jan 17: Winnipeg, 570 km</li>
-      <li>Jan 18: Manitoba to Ontario border, 150 km</li>
+      <li>Jan 18: Manitoba to Ontario border, 150 km. Heavy snow closed the road, so I ended up staying briefly in the mountains, where I ran into a red fox.</li>
       <li>Jan 19: Thunder Bay, 570 km</li>
       <li>Jan 20: Sault Ste. Marie, 700 km</li>
       <li>Jan 21: Toronto, 700 km</li>
