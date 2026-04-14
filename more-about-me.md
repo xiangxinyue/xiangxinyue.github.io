@@ -211,8 +211,8 @@ intro: A hidden page for the personal details behind the work.
 <div class="feature-grid compact-grid section-block">
   <article class="feature-card">
     <p class="card-label">Life</p>
-    <h3>I am married, and I am very happy</h3>
-    <p>I have built a life that feels full, grounded, and deeply loved. That matters to me more than any polished career summary, and it is a big part of why the rest of my work feels steady.</p>
+    <h3>Marriage, happiness, and the life beyond work</h3>
+    <p>Everything above is part of my life, and entering marriage has made that life feel even fuller. I feel very happy, very loved, and very grounded. Work matters to me, but the life I am building with my wife matters just as much. The part of life outside work is not secondary to me. It is one of the things that gives the work meaning in the first place.</p>
   </article>
   <article class="feature-card">
     <p class="card-label">Why This Page Exists</p>
