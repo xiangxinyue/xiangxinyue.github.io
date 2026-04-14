@@ -138,9 +138,10 @@ intro: A hidden page for the personal details behind the work.
   <p class="eyebrow">Off the Clock</p>
   <h2>The clues behind the objects.</h2>
   <p>
-    If you clicked into the hidden objects, you are probably the kind of person who notices details and follows curiosity.
-    I like that. This page holds a more personal map of my life: the animals at home, the road trips, the cameras, the
-    cooking tools, the old competition hobbies, the moment AI became real to me and my marriage.
+    If you clicked one of the hidden objects, you are probably the kind of person who notices small details and follows
+    curiosity a little further. I like that. This page is a more personal map of my life: the animals at home, the
+    road trips, the cameras, the tools, the old competition years, the moment AI first became real to me, and the
+    life I have built in marriage.
   </p>
 </div>
 
@@ -159,6 +160,19 @@ intro: A hidden page for the personal details behind the work.
     <p class="card-label">Origin Story</p>
     <h3>AlphaGo changed the direction</h3>
     <p>The 2016 Lee Sedol versus AlphaGo matches were the turning point that made me decide to study AI seriously. That same year, I learned Python.</p>
+  </article>
+</div>
+
+<div class="feature-grid compact-grid section-block">
+  <article class="feature-card">
+    <p class="card-label">Art</p>
+    <h3>Years of Chinese painting</h3>
+    <p>I actually studied traditional Chinese painting for many years. It trained my eye for composition, patience, and the kind of detail that only shows up when you slow down enough to really look.</p>
+  </article>
+  <article class="feature-card">
+    <p class="card-label">Music</p>
+    <h3>Very little talent, one surviving instrument</h3>
+    <p>I do not really have musical talent. The only instrument I can play is the hulusi. I tried learning piano and drums too, but neither one stayed with me.</p>
   </article>
 </div>
 
@@ -207,19 +221,6 @@ intro: A hidden page for the personal details behind the work.
     <p class="card-label">Fun Fact</p>
     <h3>PAL, but no gun yet</h3>
     <p>I passed the firearms licence process, but I do not own a gun yet. It is more part of a broader curiosity about tools, mechanics, and training than a collecting habit.</p>
-  </article>
-</div>
-
-<div class="feature-grid compact-grid section-block">
-  <article class="feature-card">
-    <p class="card-label">Art</p>
-    <h3>Years of Chinese painting</h3>
-    <p>I actually studied traditional Chinese painting for many years. It trained my eye for composition, patience, and the kind of detail that only shows up when you slow down enough to really look.</p>
-  </article>
-  <article class="feature-card">
-    <p class="card-label">Music</p>
-    <h3>Very little talent, one surviving instrument</h3>
-    <p>I do not really have musical talent. The only instrument I can play is the hulusi. I tried learning piano and drums too, but neither one stayed with me.</p>
   </article>
 </div>
 
