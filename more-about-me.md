@@ -214,9 +214,4 @@ intro: A hidden page for the personal details behind the work.
     <h3>Marriage, happiness, and the life beyond work</h3>
     <p>Everything above is part of my life, and entering marriage has made that life feel even fuller. I feel very happy, very loved, and very grounded. Work matters to me, but the life I am building with my wife matters just as much. The part of life outside work is not secondary to me. It is one of the things that gives the work meaning in the first place.</p>
   </article>
-  <article class="feature-card">
-    <p class="card-label">Why This Page Exists</p>
-    <h3>The personal side is part of the signal</h3>
-    <p>A lot of my work is technical, serious, and structured. But curiosity is one of the reasons that work is good in the first place. This page is here for people who notice the smaller clues.</p>
-  </article>
 </div>
