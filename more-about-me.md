@@ -162,13 +162,20 @@ intro: A hidden page for the personal details behind the work.
   </article>
 </div>
 
-<div class="feature-grid compact-grid section-block">
-  <article class="feature-card">
-    <p class="card-label">Road Trips</p>
-    <h3>I really love driving</h3>
-    <p>I love cars and I love long drives. The longest road trip I have done was relocating from Edmonton to Toronto after undergrad, around 3500 km over seven days.</p>
-  </article>
-  <article class="feature-card">
+<div class="drive-cluster section-block">
+  <div class="drive-cluster-stack">
+    <article class="feature-card">
+      <p class="card-label">Road Trips</p>
+      <h3>I really love driving</h3>
+      <p>I love cars and I love long drives. The longest road trip I have done was relocating from Edmonton to Toronto after undergrad, around 3500 km over seven days.</p>
+    </article>
+    <article class="feature-card">
+      <p class="card-label">More Miles</p>
+      <h3>The trips I keep planning around</h3>
+      <p>I have also driven Edmonton to Vancouver and back, Toronto to Quebec City and back, and I am about to do Toronto to Ann Arbor to Chicago and back for my Michigan graduation.</p>
+    </article>
+  </div>
+  <article class="feature-card drive-cluster-journey">
     <p class="card-label">Relocation Drive</p>
     <h3>Edmonton to Toronto</h3>
     <p>That relocation drive is still the one I remember most clearly.</p>
@@ -183,12 +190,7 @@ intro: A hidden page for the personal details behind the work.
     </ul>
     <p>Total: around 3500 km.</p>
   </article>
-  <article class="feature-card">
-    <p class="card-label">More Miles</p>
-    <h3>The trips I keep planning around</h3>
-    <p>I have also driven Edmonton to Vancouver and back, Toronto to Quebec City and back, and I am about to do Toronto to Ann Arbor to Chicago and back for my Michigan graduation.</p>
-  </article>
-  </div>
+</div>
 
 <div class="feature-grid compact-grid section-block">
   <article class="feature-card">
@@ -205,6 +207,19 @@ intro: A hidden page for the personal details behind the work.
     <p class="card-label">Fun Fact</p>
     <h3>PAL, but no gun yet</h3>
     <p>I passed the firearms licence process, but I do not own a gun yet. It is more part of a broader curiosity about tools, mechanics, and training than a collecting habit.</p>
+  </article>
+</div>
+
+<div class="feature-grid compact-grid section-block">
+  <article class="feature-card">
+    <p class="card-label">Art</p>
+    <h3>Years of Chinese painting</h3>
+    <p>I actually studied traditional Chinese painting for many years. It trained my eye for composition, patience, and the kind of detail that only shows up when you slow down enough to really look.</p>
+  </article>
+  <article class="feature-card">
+    <p class="card-label">Music</p>
+    <h3>Very little talent, one surviving instrument</h3>
+    <p>I do not really have musical talent. The only instrument I can play is the hulusi. I tried learning piano and drums too, but neither one stayed with me.</p>
   </article>
 </div>
 

@@ -702,13 +702,15 @@ img {
 
 .more-about-page .feature-grid.compact-grid {
   grid-template-columns: repeat(12, minmax(0, 1fr));
+  align-items: start;
 }
 
 .more-about-page .feature-card {
   position: relative;
   overflow: hidden;
   grid-column: span 4;
-  min-height: 100%;
+  min-height: auto;
+  align-self: start;
   background: rgba(255, 250, 244, 0.84);
   --card-tilt: 0deg;
   animation: paper-float 9s ease-in-out infinite;
@@ -732,6 +734,24 @@ img {
 
 .more-about-page .feature-grid:nth-of-type(4) .feature-card:last-child {
   grid-column: span 6;
+}
+
+.drive-cluster {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  gap: 20px;
+  align-items: start;
+}
+
+.drive-cluster-stack {
+  display: grid;
+  gap: 20px;
+  align-content: start;
+}
+
+.drive-cluster .feature-card,
+.drive-cluster-journey {
+  grid-column: auto;
 }
 
 .more-about-page .feature-card:nth-child(3n + 1) {
@@ -1084,6 +1104,10 @@ img {
   .more-about-page .feature-grid:nth-of-type(4) .feature-card:last-child {
     grid-column: span 12;
     transform: none;
+  }
+
+  .drive-cluster {
+    grid-template-columns: 1fr;
   }
 
   .more-about-floaters {
