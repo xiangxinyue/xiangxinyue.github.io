@@ -140,7 +140,7 @@ intro: A hidden page for the personal details behind the work.
   <p>
     If you clicked into the hidden objects, you are probably the kind of person who notices details and follows curiosity.
     I like that. This page holds a more personal map of my life: the animals at home, the road trips, the cameras, the
-    cooking tools, the old competition hobbies, and the moment AI became real to me.
+    cooking tools, the old competition hobbies, the moment AI became real to me and my marriage.
   </p>
 </div>
 
@@ -178,6 +178,16 @@ intro: A hidden page for the personal details behind the work.
     <h3>AlphaGo changed the direction</h3>
     <p>The 2016 Lee Sedol versus AlphaGo matches were the turning point that made me decide to study AI seriously. That same year, I learned Python.</p>
   </article>
+  <article class="feature-card">
+    <p class="card-label">More Miles</p>
+    <h3>The trips I keep planning around</h3>
+    <p>I have also driven Edmonton to Vancouver and back, Toronto to Quebec City and back, and I am about to do Toronto to Ann Arbor to Chicago and back for my Michigan graduation.</p>
+  </article>
+  <article class="feature-card">
+    <p class="card-label">Models</p>
+    <h3>I grew up building and competing</h3>
+    <p>I have loved models since I was little. Starting in junior high, I trained in vehicle model competitions, won many awards, took second place in the Asian Cup women's division, placed top three in national, provincial, and city-level competitions, and once took a photo with a world champion in vehicle models. I also know robot programming.</p>
+  </article>
 </div>
 
 <div class="feature-grid compact-grid section-block">
@@ -195,16 +205,6 @@ intro: A hidden page for the personal details behind the work.
       <li>Jan 21: Toronto, 700 km</li>
     </ul>
     <p>Total: around 3500 km.</p>
-  </article>
-  <article class="feature-card">
-    <p class="card-label">More Miles</p>
-    <h3>The trips I keep planning around</h3>
-    <p>I have also driven Edmonton to Vancouver and back, Toronto to Quebec City and back, and I am about to do Toronto to Ann Arbor to Chicago and back for my Michigan graduation.</p>
-  </article>
-  <article class="feature-card">
-    <p class="card-label">Models</p>
-    <h3>I grew up building and competing</h3>
-    <p>I have loved models since I was little. Starting in junior high, I trained in vehicle model competitions, won many awards, took second place in the Asian Cup women's division, placed top three in national, provincial, and city-level competitions, and once took a photo with a world champion in vehicle models. I also know robot programming.</p>
   </article>
 </div>
 
