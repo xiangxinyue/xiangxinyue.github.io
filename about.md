@@ -314,7 +314,7 @@ intro: A direct view of my professional and academic background, closely aligned
         </div>
       </div>
       <div class="experience-meta">
-        <p>Jun 2017 - Sep 2017 · 4 mos</p>
+        <p>Jun 2018 - Sep 2018 · 4 mos</p>
         <p>Hangzhou, Zhejiang, China · On-site</p>
       </div>
     </div>
