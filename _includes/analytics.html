@@ -1,16 +1,42 @@
-{% if site.google_analytics %}
-	<!-- Google Analytics -->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+{% assign goatcounter_endpoint = site.goatcounter_endpoint | default: "" | strip %}
+{% assign goatcounter_code = site.goatcounter_code | default: "" | strip %}
+{% assign goatcounter_visit_count_path = site.goatcounter_visit_count_path | default: "TOTAL" | strip %}
+{% if goatcounter_endpoint == "" and goatcounter_code != "" %}
+  {% assign goatcounter_endpoint = "https://" | append: goatcounter_code | append: ".goatcounter.com/count" %}
+{% endif %}
 
-		ga('create', '{{ site.google_analytics }}', 'auto');
-		ga('send', 'pageview', {
-		  'page': '{{ site.baseurl }}{{ page.url }}',
-		  'title': '{{ page.title | replace: "'", "\\'" }}'
-		});
-	</script>
-	<!-- End Google Analytics -->
+{% if goatcounter_endpoint != "" %}
+  <script data-goatcounter="{{ goatcounter_endpoint }}" async src="https://gc.zgo.at/count.js"></script>
+  {% if site.goatcounter_show_visit_count %}
+    <script>
+      (function () {
+        var target = "#goatcounter-visit-count";
+        var attempts = 0;
+        var timer = window.setInterval(function () {
+          var container = document.querySelector(target);
+
+          attempts += 1;
+          if (window.goatcounter && window.goatcounter.visit_count && container) {
+            window.clearInterval(timer);
+            var options = {
+              append: target,
+              no_branding: true,
+              attr: {
+                "aria-label": "Total site visits"
+              },
+              style: "div { width: auto !important; height: auto !important; border: 0 !important; background: transparent !important; color: inherit !important; padding: 0 !important; font: inherit !important; } #gcvc-for, #gcvc-by { display: none !important; } #gcvc-views { color: inherit !important; font: inherit !important; }"
+            };
+
+            {% if goatcounter_visit_count_path != "" %}
+              options.path = "{{ goatcounter_visit_count_path }}";
+            {% endif %}
+
+            window.goatcounter.visit_count(options);
+          } else if (attempts > 50) {
+            window.clearInterval(timer);
+          }
+        }, 100);
+      }());
+    </script>
+  {% endif %}
 {% endif %}

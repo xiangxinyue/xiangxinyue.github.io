@@ -927,16 +927,6 @@ img {
   border-top: 1px solid var(--line);
 }
 
-.visitor-strip {
-  padding-top: 18px;
-}
-
-.visitor-map {
-  display: flex;
-  justify-content: center;
-  padding: 14px 0 0;
-}
-
 .footer-icons {
   display: flex;
   flex-wrap: wrap;
@@ -946,6 +936,26 @@ img {
 
 .footer-icons a {
   color: var(--muted);
+}
+
+.footer-visitor-count {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  min-height: 20px;
+  margin-top: 12px;
+  color: var(--muted);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.76rem;
+}
+
+.footer-visitor-count-value {
+  color: var(--text);
+  font-weight: 500;
+}
+
+.footer-visitor-count-value > div {
+  display: inline !important;
 }
 
 .highlight {

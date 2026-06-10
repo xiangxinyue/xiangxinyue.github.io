@@ -9,9 +9,14 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css?v={{ site.time | date: '%s' }}" />
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    {% if site.url %}
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    {% endif %}
   </head>
   <body class="{% if page.body_class %}{{ page.body_class }}{% endif %}">
     {% assign current_url = page.url | default: "/" %}
+    {% assign goatcounter_endpoint = site.goatcounter_endpoint | default: "" | strip %}
+    {% assign goatcounter_code = site.goatcounter_code | default: "" | strip %}
     <div class="site-shell">
       <header class="site-header">
         <div class="container site-header-inner">
@@ -44,6 +49,14 @@
             <div class="footer-icons">
               {% include svg-icons.html %}
             </div>
+            {% if site.goatcounter_show_visit_count %}
+              {% if goatcounter_endpoint != "" or goatcounter_code != "" %}
+                <div class="footer-visitor-count" aria-live="polite">
+                  <span>Site visits</span>
+                  <span id="goatcounter-visit-count" class="footer-visitor-count-value"></span>
+                </div>
+              {% endif %}
+            {% endif %}
           </div>
           <div class="footer-note">
             <p>I left a secret page somewhere on this site. I think you can find it! ;)</p>
@@ -51,11 +64,6 @@
           <div class="footer-secret-objects" aria-label="More about me">
             <a class="secret-object-trigger" href="{{ site.baseurl }}/more-about-me/" data-secret-slot="footer-one" aria-label="Open more about me"></a>
             <a class="secret-object-trigger" href="{{ site.baseurl }}/more-about-me/" data-secret-slot="footer-two" aria-label="Open more about me"></a>
-          </div>
-        </div>
-        <div class="container visitor-strip">
-          <div class="visitor-map">
-            <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gJ2xSyRD685pCl18F6l9anaEiUy06C9RIjUKV9Q_Iok&cl=ffffff&w=a"></script>
           </div>
         </div>
       </footer>
