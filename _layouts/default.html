@@ -49,14 +49,6 @@
             <div class="footer-icons">
               {% include svg-icons.html %}
             </div>
-            {% if site.goatcounter_show_visit_count %}
-              {% if goatcounter_endpoint != "" or goatcounter_code != "" %}
-                <div class="footer-visitor-count" aria-live="polite">
-                  <span>Site visits</span>
-                  <span id="goatcounter-visit-count" class="footer-visitor-count-value"></span>
-                </div>
-              {% endif %}
-            {% endif %}
           </div>
           <div class="footer-note">
             <p>I left a secret page somewhere on this site. I think you can find it! ;)</p>
@@ -66,6 +58,14 @@
             <a class="secret-object-trigger" href="{{ site.baseurl }}/more-about-me/" data-secret-slot="footer-two" aria-label="Open more about me"></a>
           </div>
         </div>
+        {% if site.goatcounter_show_visit_count %}
+          {% if goatcounter_endpoint != "" or goatcounter_code != "" %}
+            <div class="container footer-visitor-count" aria-live="polite">
+              <span>Site visits</span>
+              <span id="goatcounter-visit-count" class="footer-visitor-count-value"></span>
+            </div>
+          {% endif %}
+        {% endif %}
       </footer>
     </div>
     <template id="secret-object-labrador" data-label="Nebula">

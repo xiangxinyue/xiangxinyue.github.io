@@ -10,32 +10,21 @@
   {% if site.goatcounter_show_visit_count %}
     <script>
       (function () {
-        var target = "#goatcounter-visit-count";
-        var attempts = 0;
-        var timer = window.setInterval(function () {
-          var container = document.querySelector(target);
+        var container = document.querySelector("#goatcounter-visit-count");
+        if (!container) return;
 
-          attempts += 1;
-          if (window.goatcounter && window.goatcounter.visit_count && container) {
-            window.clearInterval(timer);
-            var options = {
-              append: target,
-              no_branding: true,
-              attr: {
-                "aria-label": "Total site visits"
-              },
-              style: "div { width: auto !important; height: auto !important; border: 0 !important; background: transparent !important; color: inherit !important; padding: 0 !important; font: inherit !important; } #gcvc-for, #gcvc-by { display: none !important; } #gcvc-views { color: inherit !important; font: inherit !important; }"
-            };
+        var base = "{{ goatcounter_endpoint }}".replace(/\/count$/, "");
+        var path = "{{ goatcounter_visit_count_path | default: 'TOTAL' }}";
+        var url = base + "/counter/" + encodeURIComponent(path) + ".json";
 
-            {% if goatcounter_visit_count_path != "" %}
-              options.path = "{{ goatcounter_visit_count_path }}";
-            {% endif %}
-
-            window.goatcounter.visit_count(options);
-          } else if (attempts > 50) {
-            window.clearInterval(timer);
-          }
-        }, 100);
+        fetch(url)
+          .then(function (resp) { return resp.ok ? resp.json() : null; })
+          .then(function (data) {
+            if (data && data.count != null) {
+              container.textContent = Number(String(data.count).replace(/[^0-9]/g, "")).toLocaleString();
+            }
+          })
+          .catch(function () {});
       }());
     </script>
   {% endif %}

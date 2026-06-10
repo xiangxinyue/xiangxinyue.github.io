@@ -941,9 +941,10 @@ img {
 .footer-visitor-count {
   display: flex;
   align-items: baseline;
+  justify-content: center;
   gap: 8px;
   min-height: 20px;
-  margin-top: 12px;
+  margin-top: 32px;
   color: var(--muted);
   font-family: "IBM Plex Mono", monospace;
   font-size: 0.76rem;
@@ -952,10 +953,6 @@ img {
 .footer-visitor-count-value {
   color: var(--text);
   font-weight: 500;
-}
-
-.footer-visitor-count-value > div {
-  display: inline !important;
 }
 
 .highlight {
