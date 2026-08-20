@@ -21,7 +21,7 @@ intro: A direct view of my professional and academic background, closely aligned
         </div>
       </div>
       <div class="experience-meta">
-        <p>Dec 2025 - Present · 5 mos</p>
+        <p>Dec 2025 - Present · </p>
         <p>Toronto, Ontario, Canada</p>
       </div>
     </div>
