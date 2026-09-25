@@ -43,7 +43,7 @@ intro: A direct view of my professional and academic background, closely aligned
         </div>
       </div>
       <div class="experience-meta">
-        <p>May 2024 - Present · 2 yrs</p>
+        <p>May 2024 - Dev 2026 · 1 yr 6 mos</p>
         <p>Toronto, Ontario, Canada</p>
       </div>
     </div>
